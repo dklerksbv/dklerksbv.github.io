@@ -23,7 +23,6 @@ I work with executives and business leaders to develop leadership skills, build 
 
 If you're interested in working with me or have any questions, please don't hesitate to get in touch. You can reach me by phone or email:
 
-Phone: 
-Email: 
+Email: dklerksbv@gmail.com
 
 I look forward to hearing from you and helping you achieve your goals!
