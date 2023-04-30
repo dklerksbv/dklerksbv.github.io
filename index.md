@@ -2,7 +2,8 @@
 
 Welcome to Daniel's website. As a life coach, I help individuals to reach their full potential and achieve their goals. I believe that everyone has the capacity for personal growth and that my role as a coach is to guide my clients through the process of self-discovery and transformation.
 
-<a href="News.md">NEWS</a>
+
+![This is a cute cat](https://i.imgur.com/pQgTh6R.jpeg "Fluffy")
 
 
 ## Services Offered
