@@ -2,6 +2,9 @@
 
 Welcome to Daniel's website. As a life coach, I help individuals to reach their full potential and achieve their goals. I believe that everyone has the capacity for personal growth and that my role as a coach is to guide my clients through the process of self-discovery and transformation.
 
+<a href="News.md">NEWS</a>
+
+
 ## Services Offered
 
 ### Personal Coaching
@@ -26,3 +29,4 @@ If you're interested in working with me or have any questions, please don't hesi
 Email: [Insert Email Address]
 
 I look forward to hearing from you and helping you achieve your goals!
+
