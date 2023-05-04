@@ -14,8 +14,10 @@ Door mijn eigen zoektocht naar geluk ben ik verschillende paden gaan bewandelen.
         "Een classificatiesysteem van alle wetenschappelijk erkende psychische diagnosen, het handboek van de psycholoog zeg maar"</sup><a href="#fnref1" class="footnote-backref">↩</a>
       </p>
     </li>
-        <li id="fn2" class="footnote-item">
+    <li id="fn2" class="footnote-item">
       <p class="footnote-item">
         "McLeod Ganj officieel in het Indiase gedeelte van de Himalaya, in praktijk het verblijf van de Tibetaanse regering in ballingschap, de Dalai Lama en duizenden Tibetaanse monniken"</sup><a href="#fnref2" class="footnote-backref">↩</a>
+      </p>
+    </li>
   </ol>
 </section>
