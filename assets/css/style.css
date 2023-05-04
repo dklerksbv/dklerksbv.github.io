@@ -601,7 +601,7 @@ div#preloader {
 
 @media (max-width: 768px) {
   #hero h2 {
-    font-size: 20px;
+    font-size: 26px;
     line-height: 1.2;
   }
 }
@@ -622,7 +622,7 @@ div#preloader {
 
 @media (max-width: 768px) {
   #hero p {
-    font-size: 28px;
+    font-size: 19px;
     line-height: 1.2;
   }
 }
@@ -723,6 +723,29 @@ div#preloader {
 
 .single-well p {
   color: #444;
+}
+
+/*--------------------------------------------------------------
+# Sitting with yourself Home
+--------------------------------------------------------------*/
+.sitting-with-yourself {
+    background-color: rgb(214, 213, 218);
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding: 0px;
+    border-width: 0px;
+    border-color: rgb(214, 213, 218);
+    border-style: solid;
+    background-size: cover;
+    background-image: url("../img/sittingwithyourself/daniel-egaalbg.jpg");
+    min-height: 100vh;
+    height: 100vh;
+}
+
+@media (max-width: 576px) {
+  .sitting-with-yourself {
+      background-image: none;
+  }
 }
 
 /*--------------------------------------------------------------
