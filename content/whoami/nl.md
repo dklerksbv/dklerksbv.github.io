@@ -11,7 +11,7 @@ Door mijn eigen zoektocht naar geluk ben ik verschillende paden gaan bewandelen.
   <ol class="footnotes-list">
     <li id="fn1" class="footnote-item">
       <p class="footnote-item">
-        "Een classificatiesysteem van alle wetenschappelijk erkende psychische diagnosen, het handboek van de psycholoog zeg maar"</sup><a href="#fnref1" class="footnote-backref">↩</a>
+        "Een classificatiesysteem van alle wetenschappelijk erkende psychische diagnoses, het handboek van de psycholoog zeg maar"</sup><a href="#fnref1" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="fn2" class="footnote-item">
