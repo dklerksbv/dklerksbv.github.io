@@ -181,7 +181,6 @@ button[type=submit] {
   box-shadow: none !important;
 }
 
-
 div#preloader {
   position: fixed;
   left: 0;
@@ -575,7 +574,7 @@ div#preloader {
 
 #hero .carousel-item::before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 #hero .carousel-container {
@@ -596,7 +595,7 @@ div#preloader {
 #hero h2 {
   color: #fff;
   margin-bottom: 20px;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 700;
 }
 
@@ -609,7 +608,7 @@ div#preloader {
 
 #hero p {
   width: 80%;
-  font-size: 38px;
+  font-size: 27px;
   line-height: 1.2;
   margin: 0 auto 30px auto;
   color: #fff;
