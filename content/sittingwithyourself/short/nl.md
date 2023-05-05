@@ -1,5 +1,5 @@
 ## Zitten met jezelf
-#### Als je met jezelf in de knoop zit, is zitten met jezelf de enige manier om er blijvend uit te komen. 
+#### **Als je met jezelf in de knoop zit, is zitten met jezelf de enige manier om er blijvend uit te komen.** 
 
 #### Maar vaak weten we niet zo goed wat die knoop is en al helemaal niet hoe je die er dan weer uit kan krijgen. De effecten van de knoop zijn vaak wél duidelijk te zien: Je hoofd zit vol en je bent niet zo gelukkig. Het negeren, weglopen of verdoven van je problemen geeft op korte termijn een gevoel van verlossing maar over tijd verminderd dit de kwaliteit van je leven aanzienlijk. Zelfonderzoek is noodzakelijk om hieruit te komen. Wie anders kan de knoop vinden die diep van binnen verstopt zit? En wie anders kan deze er ook weer uithalen? Ik heb een groot deel van mijn leven mensen mogen helpen om de rode draad van hun leven te vinden. Samen onderzoeken we wat er aan de hand is en beginnen we het proces van ontwarren en ontknopen. En het mooie is dat alle wijsheid al binnen in je zit. Ik hoef alleen maar een spiegel voor te houden zodat jij dat ook kan zien. Dit doe ik met een combinatie van inzichtgevende en ervaringsgerichte technieken waarin jouw hulpvraag centraal staat. 
 
