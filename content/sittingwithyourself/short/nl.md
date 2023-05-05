@@ -3,3 +3,14 @@
 
 ## Voor wie?
 #### Iedereen die open staat voor ACT en mindfulness (ervaring is niet nodig en een beetje weerstand is prima). Mijn specialismes zijn: + Identiteit en zelfbeeld + Emotieregulatie en prikkelverwerking + Verslaving en vluchtgedrag (bijv. in werk, relaties, sport, laptop, telefoon, eten, slapen) + Meditatie en psychologische groei* + Seks, poli en kink + Geluk, voldoening en waarden
+
+
+<section class="footnotes">
+  <ol class="footnotes-list">
+    <li id="fn1" class="footnote-item">
+      <p class="footnote-item">
+        Een classificatiesysteem van alle wetenschappelijk erkende psychische diagnoses, het handboek van de psycholoog zeg maar </sup><a href="#fnref1" class="footnote-backref">↩</a>
+      </p>
+    </li>
+  </ol>
+</section>
