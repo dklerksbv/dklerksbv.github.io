@@ -14,7 +14,7 @@ Mijn specialismes zijn:
 #### + Emotieregulatie en prikkelverwerking 
 #### + Verslaving en vluchtgedrag (bijv. in werk, relaties, sport, laptop, telefoon, eten, slapen) 
 #### + Meditatie en psychologische groei<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> 
-#### + Seks, poli en kink + Geluk, voldoening en waarden
+#### + Seks, ethische non-monogamie en kink + Geluk, voldoening en waarden
 
 <section class="footnotes">
   <ol class="footnotes-list">
