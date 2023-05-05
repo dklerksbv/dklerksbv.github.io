@@ -730,7 +730,7 @@ div#preloader {
 --------------------------------------------------------------*/
 .sitting-with-yourself {
     background-color: rgb(214, 213, 218);
-    background-position: center top;
+    background-position: bottom center;
     background-repeat: no-repeat;
     padding: 0px;
     border-width: 0px;
@@ -739,7 +739,6 @@ div#preloader {
     background-size: cover;
     background-image: url("../img/sittingwithyourself/daniel-egaalbg.jpg");
     min-height: 100vh;
-    height: 100vh;
 }
 
 @media (max-width: 576px) {
