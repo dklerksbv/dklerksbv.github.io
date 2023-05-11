@@ -1,8 +1,46 @@
-#### PROJECT ONDERHOUD
-Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
+#### Zelf & Wie ben jij?
+De oude Grieken met Ken u Zelve etc etc
+Want het uiteindelijke geluk is er al, de wijsheid is er al, eigenlijk is alles al binnen in je wat je nodig hebt om gelukkig te worden. 
+Geluk bereik je dus door zelfbewustzijn en zelfbewustzijn bereik je door te Zitten met Jezelf.
 
-* Interior design Pakket
-* Een huis bouwen
-* Repareren van je dak
-* Kantoorrenovatie
-* Kwaliteitsproducten leveren
+
+<section class="footnotes">
+  <ol class="footnotes-list">
+    <li id="bassie" class="footnote-item">
+      <p class="footnote-item">
+        Li, Shang, Wang, Yang & Guo, 2022: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9702511/ </sup><a href="#adriaan" class="footnote-backref">↩</a>
+      </p>
+    </li>
+    <li id="bassie2" class="footnote-item">
+      <p class="footnote-item">
+        Gloster, Walder, Levin, Twohig & Karekla, 2022: https://www.sciencedirect.com/science/article/pii/S2212144720301940 </sup><a href="#adriaan2" class="footnote-backref">↩</a>
+      </p>
+    <li id="bassie3" class="footnote-item">
+      <p class="footnote-item">
+        Hayes, 2023: https://contextualscience.org/act_randomized_controlled_trials_1986_to_present </sup><a href="#adriaan3" class="footnote-backref">↩</a>
+            <li id="bassie4" class="footnote-item">
+      <p class="footnote-item">
+        Denk aan ingesleten gewoonten en overlevingsmechanismes: fight, flight en freeze </sup><a href="#adriaan4" class="footnote-backref">↩</a>
+      </p>
+    </li>
+    <li id="bassie5" class="footnote-item">
+      <p class="footnote-item">
+        Sommers-Spijkerman, Austin, Bohlmeijer & Pots, 2021: https://mental.jmir.org/2021/7/e28168/ </sup><a href="#adriaan5" class="footnote-backref">↩</a>
+      </p>
+    <li id="bassie6" class="footnote-item">
+      <p class="footnote-item">
+        Khoury et al., 2013: https://www.sciencedirect.com/science/article/abs/pii/S0272735813000731?via=ihub </sup><a href="#adriaan6" class="footnote-backref">↩</a>
+            <li id="bassie7" class="footnote-item">
+      <p class="footnote-item">
+        Goldberg et al., 2018: https://www.sciencedirect.com/science/article/abs/pii/S0272735817303847?via%3Dihub: </sup><a href="#adriaan7" class="footnote-backref">↩</a>
+      </p>
+    </li>
+    <li id="bassie8" class="footnote-item">
+      <p class="footnote-item">
+        Gu, Strauss, Bond & Cavanagh, 2015: https://www.sciencedirect.com/science/article/abs/pii/S0272735815000197 </sup><a href="#adriaan8" class="footnote-backref">↩</a>
+      </p>
+    <li id="bassie9" class="footnote-item">
+      <p class="footnote-item">
+        Tang, Hölzel & Posner, 2015: https://www.nature.com/articles/nrn3916 </sup><a href="#adriaan9" class="footnote-backref">↩</a>
+  </ol>
+</section>
