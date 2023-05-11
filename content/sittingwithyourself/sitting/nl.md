@@ -1,8 +1,3 @@
-#### PROJECT ONDERHOUD
-Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
+#### Zitten & Zelfbewustzijn
 
-* Interior design Pakket
-* Een huis bouwen
-* Repareren van je dak
-* Kantoorrenovatie
-* Kwaliteitsproducten leveren
+Vermoedelijk ben je nu wel tot de conclusie gekomen dat Zitten met Jezelf echt niet alleen gaat om 'passief zitten'. Het doel is dus juist dat jij in actie gaat komen! Het middel is zelfbewustzijn. Veel mensen zoeken hun geluk in aantrekkelijke partners, promoties op werkgebied, likes op social media, goedkeuring van ouders, kopen van spullen en hebben van geld, en ander 'extern' geluk. Anderen worden geleefd door de sleur van de dag. Ze missen richting en doen eigenlijk maar wat. Veel mensen weten eigenlijk niet precies wat hun écht gelukkig maakt. Onze lichaam en geest zijn voortdurend in de weer om ons te vertellen wat gezond en helpend voor ons is. Maar voor velen geld dat automatische gedachten en gedrag het grotendeels overgenomen hebben<sup class="footnote-ref"><a href="#bassie4" id="adriaan4">[4]</a></sup>. Hierdoor mis je de signalen die jou de goede kant opwijzen. Wanneer het je echter lukt om meer bewust te zijn van dit moment, ontstaat er een keuzemoment. Want als je bewust bent van wat je denkt, terwijl je iets denkt, ontstaat er ruimte voor verandering. Beseffen waar je energie van krijgt, begrijpen wanneer er ontspanning nodig is en weten hoe je gelukkig kan worden. Dat is het gevolg van Zitten met Jezelf.
