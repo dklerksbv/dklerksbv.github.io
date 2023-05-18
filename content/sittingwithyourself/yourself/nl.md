@@ -1,7 +1,11 @@
 #### Zelf & Wie ben jij?
-De oude Grieken met Ken u Zelve etc etc
-Want het uiteindelijke geluk is er al, de wijsheid is er al, eigenlijk is alles al binnen in je wat je nodig hebt om gelukkig te worden. 
-Geluk bereik je dus door zelfbewustzijn en zelfbewustzijn bereik je door te Zitten met Jezelf.
+
+Alle psychologische, filosofische en spirituele tradities wijzen naar hetzelfde: Ken uzelve ("Know thyself“). Waarom jezelf leren kennen belangrijk is om koers te bepalen in je leven, is bovenstaand al uitgelegd. Er is echter nog een belangrijkere reden voor zelfonderzoek. Want wat gebeurt er als we alle lagen van het zelf afpellen? Wat kan je ervaren als je loskomt van de ideeën die je hebt over jezelf, anderen en de wereld? Wat gebeurt er als je écht naar jezelf gaat kijken zonder te verdwalen in gedachten over jezelf? Buddha betekend letterlijk 'wakker worden': wakker worden van het idee dat geluk buiten ons ligt. Geluk komt namelijk van binnenuit en iedereen heeft het al. De meeste weten het alleen zelf nog niet. Dat is ook waarom mensen vaak zeggen dat ze geluk halen uit de 'kleine dingen'. Er zit natuurlijk helemaal geen portie geluk in die 'kleine dingen', wat mensen er vervolgens uit kunnen halen (anders zou je er altijd wel gelukkig van worden). Het geluk zit verstopt achter de aandacht die je hebt voor de dingen. De aandacht komt van het bewustzijn, en het bewustzijn is van nature gelukkig en liefdevol. Dat is ongeacht wie je bent en wat je hebt meegemaakt in het leven. Dat is nogal een statement, dat besef ik. De uitnodiging is om kritisch voor jezelf te onderzoeken of dit ook echt waar is voor jou. Je zal jezelf de rest van je leven dankbaar blijven dat je dit aan bent gegaan. 
+#### Hoog tijd dus, om te gaan Zitten met Jezelf!
+
+
+
+
 
 
 <section class="footnotes">
