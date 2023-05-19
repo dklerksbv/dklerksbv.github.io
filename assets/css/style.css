@@ -234,6 +234,27 @@ div#preloader {
   width: 40%;
 }
 
+.section-headline-white h2 {
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 70px;
+  position: relative;
+  text-transform: capitalize;
+  color: white;
+}
+
+.section-headline-white h2::after {
+  border: 1px solid white;
+  bottom: -20px;
+  content: "";
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  width: 40%;
+}
+
 .sec-head {
   display: inline-block;
   font-size: 17px;
