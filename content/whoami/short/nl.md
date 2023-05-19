@@ -10,6 +10,9 @@
 
 ##### Wanneer we er samen achter komen dat de klachten niet passen bij de werkwijze van Zitten met Jezelf kan ik deskundig advies geven voor doorverwijzing.
 
+
+
+
 <section class="footnotes">
   <ol class="footnotes-list">
     <li id="fn1" class="footnote-item">
