@@ -8,7 +8,7 @@
 ##### - Seks, ethische non-monogamie en kink
 ##### - Geluk, voldoening en waarden
 
-#### Wanneer we er samen achter komen dat de klachten niet passen bij de werkwijze van Zitten met Jezelf kan ik deskundig advies geven voor doorverwijzing.
+##### Wanneer we er samen achter komen dat de klachten niet passen bij de werkwijze van Zitten met Jezelf kan ik deskundig advies geven voor doorverwijzing.
 
 <section class="footnotes">
   <ol class="footnotes-list">
