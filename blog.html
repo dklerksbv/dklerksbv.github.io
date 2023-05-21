@@ -120,6 +120,23 @@
       </div>
     </div><!-- End Blog Header -->
 
+    <script type="module">
+      import { myAsyncMethod } from "/assets/js/filereader.js";
+      console.log("hi!");
+
+      getBlogs();
+
+      async function getBlogs() {
+        const blogs = await myAsyncMethod();
+        Object.entries(blogs).forEach(([key, value]) => {
+           console.log(key);
+           console.log(value[0]);
+           console.log(value[1]);
+           console.log(value[2]);
+        });
+      }
+    </script>
+
     <!-- ======= Blog Page ======= -->
     <div class="blog-page area-padding">
       <div class="container">
@@ -128,14 +145,14 @@
             <div class="page-head-blog">
               <div class="single-blog-page">
                 <!-- search option start -->
-                <form action="#">
+                <!-- <form action="#">
                   <div class="search-option">
                     <input type="text" placeholder="Search...">
                     <button class="button" type="submit">
                       <i class="bi bi-search"></i>
                     </button>
                   </div>
-                </form>
+                </form> -->
                 <!-- search option end -->
               </div>
               <div class="single-blog-page">
@@ -555,9 +572,6 @@
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="assets/js/language.js"></script>
-
-  <!-- File Reader for automatic blogs -->
-  <!-- <script src="assets/js/filereader.js" type="module"></script> -->
 
 </body>
 
