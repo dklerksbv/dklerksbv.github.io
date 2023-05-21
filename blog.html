@@ -121,18 +121,18 @@
     </div><!-- End Blog Header -->
 
     <script type="module">
-      import { myAsyncMethod } from "/assets/js/filereader.js";
-      console.log("hi!");
+      import { getFolderInfo } from "/assets/js/filereader.js";
 
       getBlogs();
 
       async function getBlogs() {
-        const blogs = await myAsyncMethod();
-        Object.entries(blogs).forEach(([key, value]) => {
-           console.log(key);
-           console.log(value[0]);
-           console.log(value[1]);
-           console.log(value[2]);
+        const blogs = await getFolderInfo();
+
+        blogs.forEach(value => {
+           console.log(value["subfolder_name"]);
+           console.log(value["english_text_file"]);
+           console.log(value["dutch_text_file"]);
+           console.log(value["image_file"]);
         });
       }
     </script>
@@ -144,21 +144,10 @@
           <div class="col-lg-4 col-md-4">
             <div class="page-head-blog">
               <div class="single-blog-page">
-                <!-- search option start -->
-                <!-- <form action="#">
-                  <div class="search-option">
-                    <input type="text" placeholder="Search...">
-                    <button class="button" type="submit">
-                      <i class="bi bi-search"></i>
-                    </button>
-                  </div>
-                </form> -->
-                <!-- search option end -->
-              </div>
-              <div class="single-blog-page">
                 <!-- recent start -->
                 <div class="left-blog">
-                  <h4>recent post</h4>
+                  <h4 lang="nl">recente posts</h4>
+                  <h4 lang="en">recent posts</h4>
                   <div class="recent-post">
                     <!-- start single post -->
                     <div class="recent-single-post">
