@@ -120,23 +120,6 @@
       </div>
     </div><!-- End Blog Header -->
 
-    <script type="module">
-      import { getFolderInfo } from "/assets/js/filereader.js";
-
-      getBlogs();
-
-      async function getBlogs() {
-        const blogs = await getFolderInfo();
-
-        blogs.forEach(value => {
-           console.log(value["subfolder_name"]);
-           console.log(value["english_text_file"]);
-           console.log(value["dutch_text_file"]);
-           console.log(value["image_file"]);
-        });
-      }
-    </script>
-
     <!-- ======= Blog Page ======= -->
     <div class="blog-page area-padding">
       <div class="container">
