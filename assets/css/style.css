@@ -2685,3 +2685,79 @@ span.email-notes {
   height: 30px;
   width: 30px;
 }
+
+.selfreflection {
+    list-style-type: none;
+    padding-left: 2em;
+    background-image: url("../img/icons/self-confrontation.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.exhausted {
+    list-style-type: none;
+    padding-left: 2em;
+    background-image: url("../img/icons/exhausted.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.fleeing {
+    list-style-type: none;
+    padding-left: 2em;
+    background-image: url("../img/icons/man.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.bedroom {
+    list-style-type: none;
+    padding-left: 2em;
+    background-image: url("../img/icons/bedroom.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.happiness {
+    list-style-type: none;
+    padding-left: 2em;
+    background-image: url("../img/icons/affection.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.meditation {
+    list-style-type: none;
+    padding-left: 2em;
+    background-image: url("../img/icons/meditation.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.specialisms ul {
+  list-style-type: none;
+}
+
+.specialisms li {
+  line-height: 30px;
+  list-style-type: none;
+  font-family: "Raleway", sans-serif;
+  margin: 0 0 15px;
+  color: #444;
+  font-weight: 500;
+  font-size: 24px;
+  margin: 30px 0;
+}
+
+@media (max-width: 768px) {
+  .specialisms li {
+    font-size: 20px;
+    padding-left: 3em;
+  }
+}
