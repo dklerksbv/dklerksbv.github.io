@@ -788,6 +788,11 @@ div#preloader {
   margin: 10px 0;
 }
 
+.modal-open .navbar-fixed-top,
+.modal-open .navbar-fixed-bottom {
+padding-right: 0px;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
