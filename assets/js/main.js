@@ -234,4 +234,14 @@
     }
   });
 
-})() 
+  let toggle = true;
+  on('click', '.clickable_act_image', function(e) {
+    toggle = !toggle;
+    if(toggle) {
+      this.src = "assets/img/actmindfulness/ACTklikfoto1.png";
+    } else {
+      this.src = "assets/img/actmindfulness/ACTklikfoto2.png";
+    }
+  });
+
+})()
