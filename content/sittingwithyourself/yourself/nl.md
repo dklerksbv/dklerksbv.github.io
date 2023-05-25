@@ -12,50 +12,62 @@ Alle psychologische, filosofische en spirituele tradities wijzen naar hetzelfde:
   <ol class="footnotes-list">
     <li id="bassie" class="footnote-item">
       <p class="footnote-item">
-        Li, Shang, Wang, Yang & Guo, 2022: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9702511/ </sup><a href="#adriaan" class="footnote-backref">↩</a>
+        Li, Shang, Wang, Yang & Guo, 2022: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9702511/
+        <a href="#adriaan" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie2" class="footnote-item">
       <p class="footnote-item">
-        Gloster, Walder, Levin, Twohig & Karekla, 2022: https://www.sciencedirect.com/science/article/pii/S2212144720301940 </sup><a href="#adriaan2" class="footnote-backref">↩</a>
+        Gloster, Walder, Levin, Twohig & Karekla, 2022: https://www.sciencedirect.com/science/article/pii/S2212144720301940
+        <a href="#adriaan2" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie3" class="footnote-item">
       <p class="footnote-item">
-        Hayes, 2023: https://contextualscience.org/act_randomized_controlled_trials_1986_to_present </sup><a href="#adriaan3" class="footnote-backref">↩</a>
+        Hayes, 2023: https://contextualscience.org/act_randomized_controlled_trials_1986_to_present
+        <a href="#adriaan3" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie4" class="footnote-item">
       <p class="footnote-item">
-        Denk aan ingesleten gewoonten en overlevingsmechanismes: fight, flight en freeze </sup><a href="#adriaan4" class="footnote-backref">↩</a>
+        Denk aan ingesleten gewoonten en overlevingsmechanismes: fight, flight en freeze
+        <a href="#adriaan4" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie5" class="footnote-item">
       <p class="footnote-item">
-        Sommers-Spijkerman, Austin, Bohlmeijer & Pots, 2021: https://mental.jmir.org/2021/7/e28168/ </sup><a href="#adriaan5" class="footnote-backref">↩</a>
+        Sommers-Spijkerman, Austin, Bohlmeijer & Pots, 2021: https://mental.jmir.org/2021/7/e28168/
+        <a href="#adriaan5" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie6" class="footnote-item">
       <p class="footnote-item">
-        Khoury et al., 2013: https://www.sciencedirect.com/science/article/abs/pii/S0272735813000731?via=ihub </sup><a href="#adriaan6" class="footnote-backref">↩</a>
-            <li id="bassie7" class="footnote-item">
+        Khoury et al., 2013: https://www.sciencedirect.com/science/article/abs/pii/S0272735813000731?via=ihub
+        <a href="#adriaan6" class="footnote-backref">↩</a>
+      </p>
+    </li>
+    <li id="bassie7" class="footnote-item">
       <p class="footnote-item">
-        Goldberg et al., 2018: https://www.sciencedirect.com/science/article/abs/pii/S0272735817303847?via%3Dihub: </sup><a href="#adriaan7" class="footnote-backref">↩</a>
+        Goldberg et al., 2018: https://www.sciencedirect.com/science/article/abs/pii/S0272735817303847?via%3Dihub:
+        <a href="#adriaan7" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie8" class="footnote-item">
       <p class="footnote-item">
-        Gu, Strauss, Bond & Cavanagh, 2015: https://www.sciencedirect.com/science/article/abs/pii/S0272735815000197 </sup><a href="#adriaan8" class="footnote-backref">↩</a>
+        Gu, Strauss, Bond & Cavanagh, 2015: https://www.sciencedirect.com/science/article/abs/pii/S0272735815000197
+        <a href="#adriaan8" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie9" class="footnote-item">
       <p class="footnote-item">
-        Tang, Hölzel & Posner, 2015: https://www.nature.com/articles/nrn3916 </sup><a href="#adriaan9" class="footnote-backref">↩</a>
+        Tang, Hölzel & Posner, 2015: https://www.nature.com/articles/nrn3916
+        <a href="#adriaan9" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie10" class="footnote-item">
       <p class="footnote-item">
-        Meer weten? BLOG LINK</sup><a href="#adriaan10" class="footnote-backref">↩</a>
+        Meer weten? BLOG LINK
+        <a href="#adriaan10" class="footnote-backref">↩</a>
       </p>
     </li>
   </ol>
