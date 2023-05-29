@@ -1,0 +1,32 @@
+{
+  "values": [
+      {
+        "name": "blog1",
+        "image": "1.jpg",
+        "date": "2023-04-07",
+        "author": "Claudia",
+        "nl": {
+          "title": "Redug Lerse dolor sit amet consect adipis elit. 1",
+          "intro": "Blog1 Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit."
+        },
+        "en": {
+          "title": "",
+          "intro": ""
+        }
+      },
+      {
+        "name": "blog2",
+        "image": "2.jpg",
+        "date": "2023-05-26",
+        "author": "Daniel",
+        "nl": {
+          "title": "Redug Lerse dolor sit amet consect adipis elit. 2",
+          "intro": "Blog2  Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit."
+        },
+        "en": {
+          "title": "",
+          "intro": ""
+        }
+      }
+  ]
+}
