@@ -18,13 +18,13 @@ Alle psychologische, filosofische en spirituele tradities wijzen naar hetzelfde:
     </li>
     <li id="bassie2" class="footnote-item">
       <p class="footnote-item">
-        Gloster, Walder, Levin, Twohig & Karekla, 2022: https://www.sciencedirect.com/science/article/pii/S2212144720301940
+        Effectief bewezen voor onder meer piekeren, depressie, angst, dwang, verslaving, psychose, lichamelijke klachten, verstandelijke beperking, eetproblemen, lichaamsbeweging en kwaliteit van leven. Gloster, Walder, Levin, Twohig & Karekla, 2022: https://www.sciencedirect.com/science/article/pii/S2212144720301940; Hayes, 2023: https://contextualscience.org/act_randomized_controlled_trials_1986_to_present
         <a href="#adriaan2" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie3" class="footnote-item">
       <p class="footnote-item">
-        Hayes, 2023: https://contextualscience.org/act_randomized_controlled_trials_1986_to_present
+        https://www.online-psychology-degrees.org/study/cognitive-behavioral-therapy-different-waves/
         <a href="#adriaan3" class="footnote-backref">↩</a>
       </p>
     </li>
