@@ -6,7 +6,7 @@ Ik ben opgeleid in de wetenschappelijke traditie middels de universitaire studie
 
 Door mijn eigen zoektocht naar geluk ben ik verschillende paden gaan bewandelen. Ik ben gaan experimenteren met verschillende liefdesrelaties (poly en kink) en heb mijn partners mogen ervaren als spiegels voor zelfontwikkeling. Tot de dag van vandaag geniet ik nog volop van de liefdevolle en leerzame interacties die ik met hen mag hebben. Hiernaast ben ik dagelijks gaan mediteren en ben ik veel gaan reizen. Ik heb in België, Maleisië, Thailand, India en Tibet <sup class="footnote-ref"><a href="#bgfn3" id="bgfnref3">[3]</a></sup> verschillende retraites gedaan waar ik in aanraking ben gekomen met fascinerende filosofieën en spirituele tradities. Een deel van wat ik tegenkwam vond ik zweverig of zelfs klinkklare onzin. Maar de rest bleek onverwachts overeen te komen met onze wetenschappelijke manier van kijken! En de methode die zij aandroegen... bleek precies datgene te zijn geweest wat ik nodig had om weer volledig gelukkig te zijn met mezelf. En ik ben er van overtuigt dat dit ook jou kan helpen met je hulpvraag. 
 
-Mocht er nu een kritische stem in je opkomen is dat hartstikke mooi! Sterker nog, ik moedig zo'n kritische houding alleen maar aan. Kijk zelf maar of de dingen die ik aandraag wel kloppen! Test het uit. Experimenteer. Wil je weten hoe dat precies werkt? Klik dan even op deze [knop](https://dklerksbv.github.io/mindfulness.html?lang=nl#self).
+Mocht er nu een kritische stem in je opkomen is dat hartstikke mooi! Kijk zelf maar of de dingen die ik aandraag wel kloppen! Test het uit. Experimenteer. Wil je weten hoe dat precies werkt? Klik dan even op deze [knop](https://dklerksbv.github.io/mindfulness.html?lang=nl#self).
 
 
 
