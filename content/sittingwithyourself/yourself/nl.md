@@ -34,25 +34,25 @@ Alle psychologische, filosofische en spirituele tradities wijzen naar hetzelfde:
     </li>
     <li id="bassie5" class="footnote-item">
       <p class="footnote-item">
-        Sommers-Spijkerman, Austin, Bohlmeijer & Pots, 2021: https://mental.jmir.org/2021/7/e28168/
+        Effectief bewezen voor verschillende problemen samengevat in volgende meta-analyse. Sommers-Spijkerman, Austin, Bohlmeijer & Pots, 2021: https://mental.jmir.org/2021/7/e28168/
         <a href="#adriaan5" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie6" class="footnote-item">
       <p class="footnote-item">
-        Khoury et al., 2013: https://www.sciencedirect.com/science/article/abs/pii/S0272735813000731?via=ihub
+        Effectief voor vermindering van stress, angst, depressie. Khoury et al., 2013: https://www.sciencedirect.com/science/article/abs/pii/S0272735813000731?via=ihub
         <a href="#adriaan6" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie7" class="footnote-item">
       <p class="footnote-item">
-        Goldberg et al., 2018: https://www.sciencedirect.com/science/article/abs/pii/S0272735817303847?via%3Dihub:
+        Effectief voor vermindering van pijn en verslavingsgedrag. Goldberg et al., 2018: https://www.sciencedirect.com/science/article/abs/pii/S0272735817303847?via%3Dihub:
         <a href="#adriaan7" class="footnote-backref">↩</a>
       </p>
     </li>
     <li id="bassie8" class="footnote-item">
       <p class="footnote-item">
-        Gu, Strauss, Bond & Cavanagh, 2015: https://www.sciencedirect.com/science/article/abs/pii/S0272735815000197
+        Effectief voor vermindering van piekeren, negatieve emoties en versterking van aandacht en concentratie. Gu, Strauss, Bond & Cavanagh, 2015: https://www.sciencedirect.com/science/article/abs/pii/S0272735815000197
         <a href="#adriaan8" class="footnote-backref">↩</a>
       </p>
     </li>
@@ -64,7 +64,7 @@ Alle psychologische, filosofische en spirituele tradities wijzen naar hetzelfde:
     </li>
     <li id="bassie10" class="footnote-item">
       <p class="footnote-item">
-        Meer weten? BLOG LINK
+        Meer weten? Klik eens op het tablad 'Inspiratie'
         <a href="#adriaan10" class="footnote-backref">↩</a>
       </p>
     </li>
