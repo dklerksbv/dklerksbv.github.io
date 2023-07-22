@@ -1,4 +1,2 @@
-#### Zitten & Zelfbewustzijn
-
 Zitten met Jezelf gaat dus echt niet alleen om 'passief zitten'. Het doel is gedrag richting je waarden. Het middel is zelfbewustzijn. Veel mensen zoeken hun geluk in relaties, werkprestaties, social media, spullen, geld en ander 'extern' geluk. Anderen worden geleefd door de sleur van de dag. Ze missen richting, zoeken constant afleiding of doen maar wat. Voor velen geld dat automatische gedachten en gedrag het grotendeels overgenomen hebben<sup class="footnote-ref"><a href="#bassie4" id="adriaan4">[4]</a></sup>. Hierdoor mis je de signalen die jou de goede kant opwijzen. Wanneer je echter bewust bent van wat je denkt, terwijl je iets denkt, ontstaat er ruimte voor verandering. Beseffen waar je energie van krijgt, begrijpen wanneer er ontspanning nodig is en weten hoe je wél gelukkig kan worden. 
 #### Dat is het gevolg van Zitten met Jezelf.
