@@ -2826,17 +2826,19 @@ span.email-notes {
 	transform:scale(1.1,1.1);
 }
 
-.pricing-table-3.basic .price{
+.pricing-table-3.flower .price{
 	background-color:#28b6f6;
-	background:url("https://www.thoughtco.com/thmb/O__EjyNxlN7O_tlfSfMPcYD8AFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lotus-flower-828457262-5c6334b646e0fb0001dcd75a.jpg");
+	background:url("../img/programs/flower_package.jpg");
 	color:#FFF;
 }
-.pricing-table-3.premium .price{
+.pricing-table-3.seed .price{
 	background-color:#ff9f00;
+  background:url("../img/programs/seed_package.jpg");
 	color:#FFF;
 }
-.pricing-table-3.business .price{
+.pricing-table-3.leaf .price{
 	background-color:#c3185c;
+  background:url("../img/programs/leaf_package.jpg");
 	color:#FFF;
 }
 
@@ -2907,13 +2909,13 @@ background:inherit;
 .pricing-table-3 .pricing-table-ul .fa{
 	margin-right:10px;
 }
-.pricing-table-3.basic .pricing-table-ul .fa{
+.pricing-table-3.flower .pricing-table-ul .fa{
 	color:#28b6f6;
 }
-.pricing-table-3.premium .pricing-table-ul .fa{
+.pricing-table-3.seed .pricing-table-ul .fa{
 	color:#ff9f00;
 }
-.pricing-table-3.business .pricing-table-ul .fa{
+.pricing-table-3.leaf .pricing-table-ul .fa{
 	color:#c3185c;
 }
 .pricing-table-3 .view-more{
@@ -2948,4 +2950,26 @@ background:inherit;
     text-decoration: underline;
     font-family: inherit;
     font-size: inherit;
+}
+
+.strikethrough-price {
+  position: relative;
+  margin-right: 5px;
+}
+.strikethrough-price:before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 50%;
+  right: 0;
+  border-top: 1px solid;
+  border-color: inherit;
+  color:red;
+  border-width: 2px;
+
+  -webkit-transform:rotate(-5deg);
+  -moz-transform:rotate(-5deg);
+  -ms-transform:rotate(-5deg);
+  -o-transform:rotate(-5deg);
+  transform:rotate(-5deg);
 }
