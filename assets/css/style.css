@@ -2824,7 +2824,6 @@ span.email-notes {
 }
 .pricing-table-3:hover{
 	transform:scale(1.1,1.1);
-	cursor:pointer;
 }
 
 .pricing-table-3.basic .price{
