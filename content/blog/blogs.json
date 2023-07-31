@@ -3,11 +3,12 @@
       {
         "name": "blog1",
         "image": "1.jpg",
-        "date": "2023-04-07",
-        "author": "Claudia",
+        "date": "2023-31-07",
+        "author": "Daniel",
         "nl": {
-          "title": "Redug Lerse dolor sit amet consect adipis elit. 1",
-          "intro": "Blog1 Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit."
+          "title": "Mindfulness door de bril van een psycholoog",
+          "intro": "The key to enjoying the extraodrinary benefits of mindfulness meditation is the practice of everyday mindfulness – that is, showing up for your life and enjoying the moment. 
+	Stephan Bodian."
         },
         "en": {
           "title": "",
