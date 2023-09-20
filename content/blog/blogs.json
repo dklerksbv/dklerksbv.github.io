@@ -27,6 +27,34 @@
           "title": "",
           "intro": ""
         }
+      },
+      {
+        "name": "blog3",
+        "image": "Window of Mindfulness.png",
+        "date": "2023-09-20",
+        "author": "Daniel",
+        "nl": {
+          "title": "Emotieregulatie en de Window of Mindfulness",
+          "intro": "Ik introduceer in deze blog de Window of Mindfulness en in de volgende de Mindfulness Cheatsheet. Je kan beiden zien als een gebruiksaanwijzing van het brein zodat je weet wat je moet doen tijdens uitdagende situaties in meditaties en in je dagelijkse leven."
+        },
+        "en": {
+          "title": "",
+          "intro": ""
+        }
+      },
+      {
+        "name": "blog4",
+        "image": "Mindfulness Cheatsheet.png",
+        "date": "2023-10-20",
+        "author": "Daniel",
+        "nl": {
+          "title": "De Mindfulness Cheatsheet",
+          "intro": ""
+        },
+        "en": {
+          "title": "",
+          "intro": ""
+        }
       }
   ]
 }
