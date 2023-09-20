@@ -1,4 +1,4 @@
-Emotieregulatie en de Window of Mindfulness
+**Emotieregulatie en de Window of Mindfulness**
 
 Het doel van de komende twee blogs is in eerste instantie om er voor te zorgen dat je meditatie gaat ervaren zoals het hoort: gemakkelijk en effectief. Daarnaast is deze informatie onmisbaar als je tegen moeilijkheden aanloopt in je dagelijkse leven en verteld het je precies wat je moet doen als je het emotioneel zwaar hebt. Ik introduceer in deze blog de Window of Mindfulness en in de volgende de Mindfulness Cheatsheet. Je kan beiden zien als een gebruiksaanwijzing van het brein zodat je weet wat je moet doen tijdens uitdagende situaties in meditaties en in je dagelijkse leven. Hoewel deze tweedelige handleiding (nog) niet op effectiviteit onderzocht is, is deze ontstaan vanuit het uitgebreid onderzochte en veelgebruikte psychologische model: de Window of Tolerance. Ik heb het model simpelweg toegepast op nog niet eerder betreden terrein, namelijk mindfulness en meditatie. 
 
