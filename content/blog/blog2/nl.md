@@ -1,13 +1,12 @@
-
 ####Waarom meditatie?
 
 Meditatie wordt in het westen meestal gedefinieerd als de beoefening van mindfulness <sup class="footnote-ref"><a href="#bffn2" id="bffnref1">[1]</a></sup>. De methode van Zitten met Jezelf valt hier ook onder. We kunnen de meditatie richten op alle ervaringen waar we bewust van kunnen zijn (zien, horen, voelen, ruiken, proeven en/of denken; <sup class="footnote-ref"><a href="#bffn3" id="bffnref2">[2]</a></sup>). Kijk eens naar Schema A in het plaatje bij deze blog. Hier zie je de drie traditionele stappen van mediteren. Ik leg het schema uit aan de hand van mogelijk de bekendste vorm van meditatie in het westen, de ademhalingsoefening:
 
-I. Mindfulness van focuspunt: Je richt je aandacht allereerst op het voelen van de ademhaling bij bijvoorbeeld de neus, buik of borstkas 
+    I. Mindfulness van focuspunt: Je richt je aandacht allereerst op het voelen van de ademhaling bij bijvoorbeeld de neus, buik of borstkas 
 
-II. Afleiding: Vervolgens gaat er een moment zijn dat je afgedwaald bent van de ademhaling en je aandacht ergens anders is (de automatische piloot van de vorige blog heeft het weer overgenomen).
+    II. Afleiding: Vervolgens gaat er een moment zijn dat je afgedwaald bent van de ademhaling en je aandacht ergens anders is (de automatische piloot van de vorige blog heeft het weer overgenomen).
 
-III. Interventie: Tot slot breng je je aandacht actief weer terug naar het voelen van de ademhaling bij de neus, buik of borstkas (na afloop van de interventie is er weer een staat van mindfulness en bevind je je dus opnieuw aan het begin van de cyclus)
+    III. Interventie: Tot slot breng je je aandacht actief weer terug naar het voelen van de ademhaling bij de neus, buik of borstkas. Na afloop van de interventie is er weer een staat van mindfulness en bevind je je dus opnieuw aan het begin van de cyclus.
 
 Ditzelfde zou je ook kunnen doen bij bijvoorbeeld een bodyscan, maar daar is het focuspunt een specifiek deel in je lichaam (zoals de linker grote teen). 
 
@@ -20,7 +19,7 @@ Hier staan de 3 dingen op een rijtje:
 2 Grounding: Window of Mindfulness en De Mindfulness Cheatsheet (uitleg in blog 3 en blog 4) 
 3 Direct Approach: Controle loslaten en non-doing (uitleg in blog 5).
 
-Met de basiskennis en het toepassen van grounding zal je merken dat je meditaties veel makkelijker en effectiever zullen worden (bij welke meditatievorm dan ook). Daarnaast kan je grounding ook inzetten voor algemene emotieregulatie. De uitleg van de Direct Approach is onmisbaar als je wilt gaan voor diepgaand inzicht en helder bewustzijn. Tijdens meditaties, maar wellicht belangrijker nog tijdens alle andere momenten van je leven. Want vergis je niet: Alle uitdagingen die je tijdens je meditaties kan tegenkomen, kom je ook op een bepaalde manier tegen in je dagelijkse leven (of je je daar nu bewust van bent of niet). En alle vaardigheden en inzichten die je door mediteren kan opdoen, kunnen baanbrekend zijn voor de gebieden in je leven waar het echt om draait voor je. Meditatie is de kunst van het leren omgaan met jezelf en de wereld. En dat is een van de redenen waarom meditatie zo'n enorm krachtige patronen-doorbreker kan zijn. 
+Met de basiskennis en het toepassen van grounding zal je merken dat je meditaties veel makkelijker en effectiever zullen worden (bij welke meditatievorm dan ook). Daarnaast kan je beiden ook inzetten voor algemene emotieregulatie. De uitleg van de Direct Approach is onmisbaar als je wilt gaan voor diepgaand inzicht en helder bewustzijn. Tijdens meditaties, maar wellicht belangrijker nog tijdens alle andere momenten van je leven. Want vergis je niet: Alle uitdagingen die je tijdens je meditaties kan tegenkomen, kom je ook op een bepaalde manier tegen in je dagelijkse leven (of je je daar nu bewust van bent of niet). En alle vaardigheden en inzichten die je door mediteren kan opdoen, kunnen baanbrekend zijn voor de levensgebieden die er echt toe doen voor je. Meditatie is de kunst van het leren omgaan met jezelf en de wereld. En dat is een van de redenen waarom meditatie zo'n enorm krachtige patronen-doorbreker kan zijn. 
 
 
 <section class="footnotes">
@@ -37,3 +36,4 @@ Met de basiskennis en het toepassen van grounding zal je merken dat je meditatie
     </li>
   </ol>
 </section>
+
