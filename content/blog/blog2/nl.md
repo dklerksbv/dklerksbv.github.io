@@ -1,4 +1,4 @@
-####Waarom meditatie?
+#### Waarom meditatie?
 
 Meditatie wordt in het westen meestal gedefinieerd als de beoefening van mindfulness <sup class="footnote-ref"><a href="#bffn2" id="bffnref1">[1]</a></sup>. De methode van Zitten met Jezelf valt hier ook onder. We kunnen de meditatie richten op alle ervaringen waar we bewust van kunnen zijn (zien, horen, voelen, ruiken, proeven en/of denken; <sup class="footnote-ref"><a href="#bffn3" id="bffnref2">[2]</a></sup>). Kijk eens naar Schema A in het plaatje bij deze blog. Hier zie je de drie traditionele stappen van mediteren. Ik leg het schema uit aan de hand van mogelijk de bekendste vorm van meditatie in het westen, de ademhalingsoefening:
 
