@@ -1,4 +1,4 @@
-####De Direct Approach
+#### De Direct Approach
 
 In het dagelijkse leven zijn we zo enorm gewend om druk in de weer te zijn, dat we eigenlijk helemaal niet meer weten hoe het anders kan. Zelfs als we op de bank hangen en tegen ons zelf zeggen 'nu ga ik even helemaal niks doen', doet ons hoofd vaak het omgekeerde. Als ik mensen vraag wat ze bedoelen met niks doen, geven ze antwoorden als series kijken, wandelen, lezen, social media, knutselen, koken, tekenen, (progressieve) mindfulness of yoga. Hoewel veel van deze dingen minder energie kosten voor ons brein dan veel dagelijkse bezigheden, is dit absoluut niet niks doen. Niks doen is een kunst, en het is bepaald geen makkelijke. Niks doen wordt ook wel de zijn-modus genoemd en staat centraal in de methode die ik in deze laatste blog van de introductie-serie zal uitleggen: de directe aanpak, ofwel de 'Direct Approach'. 
 
