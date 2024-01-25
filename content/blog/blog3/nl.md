@@ -1,4 +1,4 @@
-####De Window of Mindfulness
+#### De Window of Mindfulness
 
 Het doel van de komende twee blogs is in eerste instantie om er voor te zorgen dat je meditatie gaat ervaren zoals het hoort: gemakkelijk en effectief. Ik introduceer in deze blog de Window of Mindfulness en in de volgende de Mindfulness Cheatsheet. Je kan beiden zien als een gebruiksaanwijzing van het brein tijdens uitdagende situaties in meditaties en in je dagelijkse leven. Hoewel deze tweedelige handleiding (nog) niet op effectiviteit onderzocht is, is deze ontstaan vanuit het uitgebreid onderzochte en veelgebruikte psychologische model: de Window of Tolerance <sup class="footnote-ref"><a href="#affn1" id="affnref1">[1]</a></sup>. Ik heb het model simpelweg toegepast op nog niet eerder betreden terrein, namelijk mindfulness en meditatie.
 
