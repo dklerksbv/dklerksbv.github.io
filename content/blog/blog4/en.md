@@ -1,4 +1,4 @@
-#### De Mindfulness Cheatsheet
+#### The Mindfulness Cheatsheet
 
 Mindfulness is a desired state of being that we ideally want to be in throughout the day. However, it is a given that the automatic pilot and the state of mindfulness will contantly alternate. One moment you are clear and aware, and the next moment, you may find yourself completely drifted away. This happens to everyone, regardless of the amount of meditation experience. Therefore, striving for endless mindfulness (often referred to as 'enlightenment' in the literature) can backfire. Conversely, understanding how mindfulness works and how to optimise it can be beneficial. Unlike beginners, experienced meditators (perhaps intuitively) know when thoughts begin to wander and what techniques can work to clear the mind. At the same time, too much emphasis on technique can make meditations rigid and cold. It's about finding the balance between effort (using techniques for more control) and relaxation (letting go of control). To better understand this, I have created the Mindfulness Cheatsheet.
 
