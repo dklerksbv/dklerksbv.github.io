@@ -1,8 +1,2 @@
-#### PROJECT MAINTENANCE
-Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
-
-* Interior design Package
-* Building House
-* Reparing of Residentail Roof
-* Renovation of Commercial Office
-* Make Quality Products
+#### What is Mindfulness?
+Mindfulness is an ancient technique that originated about 2400 years ago in Asia. It has become widely popular in the West and is implemented by some of the most successful companies of our time to make their employees more effective and creative (including Google, Nike, Sony, IBM, LinkedIn, Ikea, Intel, Meta, and Apple). Contrary to what many people might think, mindfulness is not complicated, religious or mystic mumbo-jumbo. In fact, every moment in which you see, hear, smell, taste, feel, or think something is a moment of mindfulness. The practice involves extending this brief moment of awareness without getting lost in automatic thoughts and behaviors. Scientific research points to the effectiveness of mindfulness in reducing various issues<sup class="footnote-ref"><a href="#bassie5" id="adriaan5">[5]</a></sup><sup class="footnote-ref"><a href="#bassie6" id="adriaan6">[6]</a></sup><sup class="footnote-ref"><a href="#bassie7" id="adriaan7">[7]</a></sup><sup class="footnote-ref"><a href="#bassie8" id="adriaan8">[8]</a></sup>, and neuroscientists demonstrate how daily mindfulness practice makes our brain more effective, healthier, and more flexible!<sup class="footnote-ref"><a href="#bassie9" id="adriaan9">[9]</a></sup>
