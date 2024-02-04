@@ -2824,25 +2824,38 @@ span.email-notes {
 	position:relative;
 	min-height:250px;
 	transition:all ease-in-out 0.25s;
-	min-width:200px;
 }
-.pricing-table-3:hover{
+.pricing-table-3-fancy:hover{
 	transform:scale(1.1,1.1);
 }
 
 .pricing-table-3.flower .price{
-	background-color:#28b6f6;
+	background-color:#c3185c;
 	background:url("../img/programs/flower_package.jpg");
 	color:#FFF;
 }
 .pricing-table-3.seed .price{
-	background-color:#ff9f00;
+	background-color:#368a34;
   background:url("../img/programs/seed_package.jpg");
 	color:#FFF;
 }
 .pricing-table-3.leaf .price{
-	background-color:#c3185c;
+	background-color:#ff9f00;
   background:url("../img/programs/leaf_package.jpg");
+	color:#FFF;
+}
+.pricing-table-3.clearsky .price{
+	background-color:#28b6f6;
+  background:url("../img/programs/clear_sky_package.jpg");
+	color:#FFF;
+}
+.pricing-table-3.mountainlake .price{
+	background-color:#42f5ce;
+  background:url("../img/programs/mountain_lake_package.jpg");
+	color:#FFF;
+}
+.pricing-table-3.mindfulness .price{
+	background-color:#e0cecc;
 	color:#FFF;
 }
 
@@ -2853,6 +2866,7 @@ span.email-notes {
 	position:absolute;
 	z-index:5;
 }
+
 .pricing-table-3 .pricing-table-header p{
 	font-size:12px;
 	opacity:0.7;
@@ -2870,6 +2884,44 @@ span.email-notes {
 	min-width:400px;
 }
 
+/* test */
+.pricing-table-3 .pricing-table-header-simple{
+	background-color:#212121;
+	color:#FFF;
+	padding:20px 0px 10px 20px;
+}
+
+.pricing-table-3 .pricing-table-header-simple p{
+	font-size:12px;
+	opacity:0.7;
+}
+.pricing-table-3 .pricing-table-header-simple::before{
+	content:"";
+	position:absolute;
+	left:-50px;
+	right:-180px;
+	height:125px;
+	top:-50px;
+	background-color:#212121;
+	z-index:-1;
+	transform:rotate(-19deg);
+	min-width:400px;
+}
+.pricing-table-header-simple h4{
+    font-family: "Open Sans";
+    color: white;
+    margin:0px;
+}
+.pricing-table-header-simple p{
+    font-family: "Open Sans";
+    color: white;
+    margin:0px;
+}
+.pricing-table-3 .pricing-body-simple{
+	padding:20px;
+	padding-top:10px;
+}
+
 .pricing-table-3 .price{
 	position:absolute;
 	top:0px;
@@ -2884,6 +2936,7 @@ span.email-notes {
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
+
 .pricing-table-3 .price::before{
 	content:"";
 	position:absolute;
@@ -2914,13 +2967,22 @@ background:inherit;
 	margin-right:10px;
 }
 .pricing-table-3.flower .pricing-table-ul .fa{
-	color:#28b6f6;
+	color:#c3185c;
 }
 .pricing-table-3.seed .pricing-table-ul .fa{
-	color:#ff9f00;
+	color:#368a34;
 }
 .pricing-table-3.leaf .pricing-table-ul .fa{
-	color:#c3185c;
+	color:#ff9f00;
+}
+.pricing-table-3.clearsky .pricing-table-ul .fa{
+	color:#28b6f6;
+}
+.pricing-table-3.mountainlake .pricing-table-ul .fa{
+	color:#42f5ce;
+}
+.pricing-table-3.mindfulness .pricing-table-ul .fa{
+	color:#e0cecc;
 }
 .pricing-table-3 .view-more{
 	margin:10px 20px;
