@@ -106,6 +106,35 @@
       </div>
     </div>
 
+    <!-- Terms and Conditions Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 lang="nl" class="modal-title" id="exampleModalLabel">Algemene voorwaarden</h5>
+            <h5 lang="en" class="modal-title" id="exampleModalLabel">Terms and Conditions</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <zero-md src="content/pricesandpackages/termsandconditions/nl.md" lang="nl">
+              <template>
+                  <link href="assets/css/style.css" rel="stylesheet">
+              </template>
+            </zero-md>
+            <zero-md src="content/pricesandpackages/termsandconditions/en.md" lang="en">
+              <template>
+                  <link href="assets/css/style.css" rel="stylesheet">
+              </template>
+            </zero-md>
+          </div>
+          <div class="modal-footer">
+            <button lang="nl" type="button" class="btn btn-primary" data-bs-dismiss="modal">Sluiten</button>
+            <button lang="en" type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- ======= Pricing Section ======= -->
     <div id="pricing" class="pricing-area area-padding">
       <div class="container">
@@ -117,7 +146,21 @@
             <h2 lang="en">ACT packages</h2>
             <h5 lang="en">Sessions take 60min</h4>
           </div>
-            <div class="col-md-4 col-sm-6">
+          <div class="col-md-3 col-sm-12 order-md-4" style="margin:20px 0 0 0;">
+            <zero-md src="content/pricesandpackages/act/nl.md" lang="nl">
+              <template>
+                  <link href="assets/css/style.css" rel="stylesheet" />
+              </template>
+            </zero-md>
+            <zero-md src="content/pricesandpackages/act/en.md" lang="en">
+              <template>
+                  <link href="assets/css/style.css" rel="stylesheet" />
+              </template>
+            </zero-md>
+            <a lang="nl" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Algemene voorwaarden</a>
+            <a lang="en" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Terms and Conditions</a>
+          </div>
+            <div class="col-md-4 col-sm-12">
                 <div class="pricing-table-3 pricing-table-3-fancy mountainlake">
                     <div class="pricing-table-header">
                         <h4><strong>MOUNTAIN LAKE</strong></h4>
@@ -189,7 +232,21 @@
             <h2 lang="en">Mindfulness packages</h2>
             <h5 lang="en">Sessions take 40min</h4>
           </div>
-            <div class="col-md-4 col-sm-6">
+          <div class="col-md-3 col-sm-12 order-md-4" style="margin:20px 0 0 0;">
+            <zero-md src="content/pricesandpackages/mindfulness/nl.md" lang="nl">
+              <template>
+                  <link href="assets/css/style.css" rel="stylesheet" />
+              </template>
+            </zero-md>
+            <zero-md src="content/pricesandpackages/mindfulness/en.md" lang="en">
+              <template>
+                  <link href="assets/css/style.css" rel="stylesheet" />
+              </template>
+            </zero-md>
+            <a lang="nl" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Algemene voorwaarden</a>
+            <a lang="en" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Terms and Conditions</a>
+          </div>
+            <div class="col-md-3 col-sm-12">
                 <div class="pricing-table-3 pricing-table-3-fancy seed">
                     <div class="pricing-table-header">
                         <h4><strong>SEED</strong></h4>
@@ -217,7 +274,7 @@
                       </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-12">
+            <div class="col-md-3 col-sm-12">
                 <div class="pricing-table-3 pricing-table-3-fancy leaf">
                     <div class="pricing-table-header">
                         <h4><strong>LEAF</strong></h4>
@@ -245,7 +302,7 @@
                       </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-12">
                 <div class="pricing-table-3 pricing-table-3-fancy flower">
                     <div class="pricing-table-header">
                         <h4><strong>FLOWER</strong></h4>
