@@ -136,7 +136,8 @@
                     </template>
                   </zero-md>
                 </div>
-                <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">ervaringsoefening.</a>
+                <a lang="nl" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">ervaringsoefening.</a>
+                <a lang="en" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">interactive exercise.</a>
               </div>
             </div>
             <!-- Modal -->
@@ -144,19 +145,25 @@
               <div class="modal-dialog">
                 <div class="modal-content">
                   <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Ervaringsoefening</h5>
+                    <h5 lang="nl" class="modal-title" id="exampleModalLabel">Ervaringsoefening</h5>
+                    <h5 lang="en" class="modal-title" id="exampleModalLabel">Interactive exercise</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                   </div>
                   <div class="modal-body">
-                    <p>
-                      <img src="./assets/img/actmindfulness/pinkelephant.jpg" width="50%" align="left" style="display: inline-block; margin: 10px;"/>
-                      Doe je ogen dicht, en probeer een minuut lang niet aan een roze olifant te denken.
-                      Je mag overal aan denken maar niet aan een roze olifant. Zet een timer en probeer dat eens...
-                      Je ervaart het effect van deze oefening meteen: Als je probeert niet te denken aan een roze olifant denk je juist aan een roze olifant!
-                      Daarom sleutel je bij ACT niet aan de inhoud van gedachten maar aan de relatie die je hebt met deze gedachten.</p>
+                    <zero-md src="content/sittingwithyourself/pinkelephant/nl.md" lang="nl">
+                      <template>
+                          <link href="assets/css/style.css" rel="stylesheet">
+                      </template>
+                    </zero-md>
+                    <zero-md src="content/sittingwithyourself/pinkelephant/en.md" lang="en">
+                      <template>
+                          <link href="assets/css/style.css" rel="stylesheet">
+                      </template>
+                    </zero-md>
                   </div>
                   <div class="modal-footer">
-                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Sluiten</button>
+                    <button lang="nl" type="button" class="btn btn-primary" data-bs-dismiss="modal">Sluiten</button>
+                    <button lang="en" type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
                   </div>
                 </div>
               </div>
