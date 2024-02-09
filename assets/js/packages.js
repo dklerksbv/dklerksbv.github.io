@@ -1,19 +1,39 @@
+import separate_sessions_data from '../../content/pricesandpackages/separatesessions/packages.json' assert { type: 'json' };
+import act_packages_data from '../../content/pricesandpackages/act/packages.json' assert { type: 'json' };
+import mindfulness_packages_data from '../../content/pricesandpackages/mindfulness/packages.json' assert { type: 'json' };
 import other_packages_data from '../../content/pricesandpackages/other/packages.json' assert { type: 'json' };
 
 // Get packages
+const separate_sessions = separate_sessions_data.values;
+const act_packages = act_packages_data.values;
+const mindfulness_packages = mindfulness_packages_data.values;
 const other_packages = other_packages_data.values;
 
-// Initiate html variables
-let otherPackagesHTML = "";
+export function fillSeparateSessions() {
+  fillPackageHTML(separate_sessions, "Losse sessies", "Separate sessions", "content/pricesandpackages/separatesessions/", "separate_sessions");
+}
+
+export function fillACTPackages() {
+  fillPackageHTML(act_packages, "ACT pakketten", "ACT packages", "content/pricesandpackages/act/", "act_packages");
+}
+
+export function fillMindfulnessPackages() {
+  fillPackageHTML(mindfulness_packages, "Mindfulness pakketten", "Mindfulness packages", "content/pricesandpackages/mindfulness/", "mindfulness_packages");
+}
 
 export function fillOtherPackages() {
-  if (other_packages.length > 0) {
-      otherPackagesHTML += getOtherPackagesTitleHtml();
-      otherPackagesHTML += getPackagesDescriptionHtml("content/pricesandpackages/act/");
+  fillPackageHTML(other_packages, "Overige pakketten", "Other packages", "content/pricesandpackages/other/", "other_packages");
+}
+
+function fillPackageHTML(packages, dutch_title, english_title, content_folder, element_id) {
+  let packagesHTML = "";
+  if (packages.length > 0) {
+      packagesHTML += getPackagesTitleHtml(dutch_title, english_title);
+      packagesHTML += getPackagesDescriptionHtml(content_folder);
   }
-  var otherPackagesDiv = document.getElementById("other_packages");
-  other_packages.forEach(getBasicItemHTML);
-  otherPackagesDiv.innerHTML = otherPackagesHTML;
+  var packagesDiv = document.getElementById(element_id);
+  packagesHTML += packages.map(getBasicItemHTML).join('');
+  packagesDiv.innerHTML = packagesHTML;
 }
 
 function getBasicItemHTML(item) {
@@ -31,23 +51,19 @@ function getBasicItemHTML(item) {
   html += "</ul>";
   html += getPaypalButtonHtml(item);
   html += "</div></div></div>";
-  otherPackagesHTML += html;
+  return html;
 }
 
-function getOtherPackagesTitleHtml() {
-  let title = "Overige pakketten";  // Default
+function getPackagesTitleHtml(dutch_title, english_title) {
+  let title = dutch_title; // Default
   switch (globalLang) {
     case 'en':
-      title = "Other packages";
+      title = english_title;
       break;
     case 'nl':
-      title = "Overige pakketten";
+      title = dutch_title;
       break;
   }
-  return getPackagesTitleHtml(title);
-}
-
-function getPackagesTitleHtml(title) {
   return "<div class='section-headline text-center'><h2>" + title + "</h2></div>";
 }
 
@@ -112,21 +128,26 @@ function getSessionInfoHtml(item) {
   let sessionLengthText = "";
   let sessionLengthConnectingText = " van ";  // Default
   let sessionsText = " sessies";  // Default
+  let separateSessionText = " losse sessie";  // Default
   switch (globalLang) {
     case 'en':
       sessionLengthConnectingText =  " of ";
       sessionsText = " sessions";
+      separateSessionText = " separate session";
       break;
     case 'nl':
       sessionLengthConnectingText =  " van ";
       sessionsText = " sessies";
+      separateSessionText = " losse sessie";
       break;
   }
   if (item.hasOwnProperty('session_length_in_minutes') && item.session_length_in_minutes !== null) {
     sessionLengthText = sessionLengthConnectingText + item.session_length_in_minutes + "min";  // Default
   }
   if (item.hasOwnProperty('number_of_sessions') && item.number_of_sessions !== null) {
-    session_info_html += "<li><i class='fa fa-send'></i>" + item.number_of_sessions + sessionsText + sessionLengthText + "</li>";
+    const numSessions = parseInt(item.number_of_sessions);
+    const sessionText = numSessions === 1 ? separateSessionText : sessionsText;
+    session_info_html += "<li><i class='fa fa-send'></i>" + item.number_of_sessions + sessionText + sessionLengthText + "</li>";
   } else if (item.hasOwnProperty('number_of_group_sessions') && item.number_of_group_sessions !== null) {
     session_info_html += "<li><i class='fa fa-send'></i>" + item.number_of_group_sessions + sessionsText + sessionLengthText + "</li>";
   }
