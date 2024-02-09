@@ -1,74 +1,34 @@
 {
   "values": [
       {
-        "price": null,
-        "price_range": [
-          {"option_name": "Optie 1", "price": 400.00},
-          {"option_name": "Optie 2", "price": 300.00},
-          {"option_name": "Optie 3", "price": 499.99}
-        ],
-        "number_of_sessions": null,
-        "number_of_group_sessions": 8,
+        "price": 60.00,
+        "number_of_sessions": 1,
+        "session_length_in_minutes": 40,
+        "name": {
+            "nl": "Mindfulness",
+            "en": "Mindfulness"
+        },
+        "paypal_button_id": "C6VVADUYMA5ZN"
+      },
+      {
+        "price": 100.00,
+        "number_of_sessions": 1,
+        "session_length_in_minutes": 60,
+        "name": {
+            "nl": "Mindfulness",
+            "en": "Mindfulness"
+        },
+        "paypal_button_id": "6GVUMM4QBFZVQ"
+      },
+      {
+        "price": 150.00,
+        "number_of_sessions": 1,
         "session_length_in_minutes": 90,
-        "intake_length_in_minutes": null,
-        "common_thread_sessions": false,
-        "digital_mf_exercises": true,
-        "introduction_money_back": false,
-        "aftercare_per_session": null,
         "name": {
-            "nl": "Mindfulness training in 8 weken",
-            "en": "Mindfulness training in 8 weeks"
+            "nl": "Intake ACT",
+            "en": "Intake ACT"
         },
-        "frequency": {
-            "nl": "1x per week",
-            "en": "once a week"
-        },
-        "upgrade_possibility": null,
-        "paypal_button_id": "J8YF6GSAX3JC6"
-      },
-      {
-        "price": 50.00,
-        "number_of_sessions": null,
-        "number_of_group_sessions": null,
-        "session_length_in_minutes": null,
-        "intake_length_in_minutes": null,
-        "common_thread_sessions": false,
-        "digital_mf_exercises": false,
-        "introduction_money_back": false,
-        "aftercare_per_session": null,
-        "name": {
-            "nl": "Ontspanning & Rust",
-            "en": "Relaxation & Rest"
-        },
-        "frequency": null,
-        "upgrade_possibility": null,
-        "download_description": {
-          "nl": "Download pakket met 10 digitale MF oefeningen voor meer ontspanning en rust in je dagelijkse leven.",
-          "en": "Download package with 10 digital MF exercises for more relaxation and rest in your daily life."
-        },
-        "paypal_button_id": "5X2Q9JTKDRWAE"
-      },
-      {
-        "price": 50.00,
-        "number_of_sessions": null,
-        "number_of_group_sessions": null,
-        "session_length_in_minutes": null,
-        "intake_length_in_minutes": null,
-        "common_thread_sessions": false,
-        "digital_mf_exercises": false,
-        "introduction_money_back": false,
-        "aftercare_per_session": null,
-        "name": {
-            "nl": "Inzicht & Voldoening",
-            "en": "Insight & Satisfaction"
-        },
-        "frequency": null,
-        "upgrade_possibility": null,
-        "download_description": {
-          "nl": "Download pakket met 10 digitale MF oefeningen voor meer inzicht en voldoening in je dagelijkse leven.",
-          "en": "Download package with 10 digital MF exercises for more insight and satisfaction in your daily life."
-        },
-        "paypal_button_id": "ECYRC8H686DWY"
+        "paypal_button_id": "76JX66H95V38G"
       }
     ]
 }
