@@ -2825,7 +2825,8 @@ span.email-notes {
 	min-height:250px;
 	transition:all ease-in-out 0.25s;
 }
-.pricing-table-3-fancy:hover{
+
+.pricing-table-3:hover{
 	transform:scale(1.1,1.1);
 }
 
@@ -2904,13 +2905,12 @@ span.email-notes {
 	top:-50px;
 	background-color:#212121;
 	z-index:-1;
-	transform:rotate(-19deg);
 	min-width:400px;
 }
 .pricing-table-header-simple h4{
     font-family: "Open Sans";
     color: white;
-    margin:0px;
+    margin:0 10px 0 0;
 }
 .pricing-table-header-simple p{
     font-family: "Open Sans";
@@ -2998,7 +2998,7 @@ background:inherit;
 .pricing-table-header h4{
     font-family: "Open Sans";
     color: white;
-    margin:0px;
+    margin:0 10px 0 0;
 }
 .pricing-table-header p{
     font-family: "Open Sans";
@@ -3078,4 +3078,8 @@ background:inherit;
         right: 15px;
         font-size: 22px;
     }
+}
+
+.paypal_options {
+  margin: 20px;
 }
