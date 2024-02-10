@@ -167,16 +167,22 @@ function getSessionInfoHtml(item) {
   let sessionLengthConnectingText = " van ";  // Default
   let sessionsText = " sessies";  // Default
   let separateSessionText = " losse sessie";  // Default
+  let groupSessionsText = " groepssessies";  // Default
+  let separategroupSessionText = " losse groepssessie";  // Default
   switch (globalLang) {
     case 'en':
       sessionLengthConnectingText =  " of ";
       sessionsText = " sessions";
       separateSessionText = " separate session";
+      groupSessionsText = " group sessies";
+      separategroupSessionText = " separate session";
       break;
     case 'nl':
       sessionLengthConnectingText =  " van ";
       sessionsText = " sessies";
       separateSessionText = " losse sessie";
+      groupSessionsText = " groepssessies";
+      separategroupSessionText = " losse groepssessie";
       break;
   }
   if (item.hasOwnProperty('session_length_in_minutes') && item.session_length_in_minutes !== null) {
@@ -187,7 +193,9 @@ function getSessionInfoHtml(item) {
     const sessionText = numSessions === 1 ? separateSessionText : sessionsText;
     session_info_html += "<li><i class='fa fa-send'></i>" + item.number_of_sessions + sessionText + sessionLengthText + "</li>";
   } else if (item.hasOwnProperty('number_of_group_sessions') && item.number_of_group_sessions !== null) {
-    session_info_html += "<li><i class='fa fa-send'></i>" + item.number_of_group_sessions + sessionsText + sessionLengthText + "</li>";
+    const numSessions = parseInt(item.number_of_group_sessions);
+    const sessionText = numSessions === 1 ? separategroupSessionText : groupSessionsText;
+    session_info_html += "<li><i class='fa fa-send'></i>" + item.number_of_group_sessions + sessionText + sessionLengthText + "</li>";
   }
 
   return session_info_html;
