@@ -1,74 +1,51 @@
 {
   "values": [
       {
-        "price": null,
-        "price_range": [
-          {"option_name": "Optie 1", "price": 400.00},
-          {"option_name": "Optie 2", "price": 300.00},
-          {"option_name": "Optie 3", "price": 499.99}
-        ],
-        "number_of_sessions": null,
-        "number_of_group_sessions": 8,
-        "session_length_in_minutes": 90,
-        "intake_length_in_minutes": null,
-        "common_thread_sessions": false,
+        "price": 350,
+        "discount": 50,
+        "number_of_sessions": 4,
+        "session_length_in_minutes": 60,
+        "name": {
+            "nl": "Introductie ACT",
+            "en": "Introduction ACT"
+        },
+        "upgrade_possibility": {
+          "nl": "Mogelijkheid om na de 4 sessies over te gaan op één van de ACT vervolgpakketten inclusief alle desbetreffende (prijs)voordelen.",
+          "en": "Possibility to continue with one of the ACT follow-up packages after the 4 sessions including all (price)benefits."
+        },
+        "paypal_button_id": "B3U4HAB3NS8WJ"
+      },
+      {
+        "package_type": "mountainlake",
+        "price": 1150.00,
+        "discount": 240,
+        "number_of_sessions": 12,
+        "intake_length_in_minutes": 90,
+        "common_thread_sessions": true,
         "digital_mf_exercises": true,
-        "introduction_money_back": false,
-        "aftercare_per_session": null,
+        "introduction_money_back": true,
+        "aftercare_per_session": 85,
         "name": {
-            "nl": "Mindfulness training in 8 weken",
-            "en": "Mindfulness training in 8 weeks"
+            "nl": "MOUNTAIN LAKE",
+            "en": "MOUNTAIN LAKE"
         },
-        "frequency": {
-            "nl": "1x per week",
-            "en": "once a week"
-        },
-        "upgrade_possibility": null,
-        "paypal_button_id": "J8YF6GSAX3JC6"
+        "paypal_button_id": "WNZHG82YYRPKN"
       },
       {
-        "price": 50.00,
-        "number_of_sessions": null,
-        "number_of_group_sessions": null,
-        "session_length_in_minutes": null,
-        "intake_length_in_minutes": null,
-        "common_thread_sessions": false,
-        "digital_mf_exercises": false,
-        "introduction_money_back": false,
-        "aftercare_per_session": null,
+        "package_type": "clearsky",
+        "price": 1600.00,
+        "discount": 490,
+        "number_of_sessions": 20,
+        "intake_length_in_minutes": 90,
+        "common_thread_sessions": true,
+        "digital_mf_exercises": true,
+        "introduction_money_back": true,
+        "aftercare_per_session": 75,
         "name": {
-            "nl": "Ontspanning & Rust",
-            "en": "Relaxation & Rest"
+            "nl": "CLEAR SKY",
+            "en": "CLEAR SKY"
         },
-        "frequency": null,
-        "upgrade_possibility": null,
-        "download_description": {
-          "nl": "Download pakket met 10 digitale MF oefeningen voor meer ontspanning en rust in je dagelijkse leven.",
-          "en": "Download package with 10 digital MF exercises for more relaxation and rest in your daily life."
-        },
-        "paypal_button_id": "5X2Q9JTKDRWAE"
-      },
-      {
-        "price": 50.00,
-        "number_of_sessions": null,
-        "number_of_group_sessions": null,
-        "session_length_in_minutes": null,
-        "intake_length_in_minutes": null,
-        "common_thread_sessions": false,
-        "digital_mf_exercises": false,
-        "introduction_money_back": false,
-        "aftercare_per_session": null,
-        "name": {
-            "nl": "Inzicht & Voldoening",
-            "en": "Insight & Satisfaction"
-        },
-        "frequency": null,
-        "upgrade_possibility": null,
-        "download_description": {
-          "nl": "Download pakket met 10 digitale MF oefeningen voor meer inzicht en voldoening in je dagelijkse leven.",
-          "en": "Download package with 10 digital MF exercises for more insight and satisfaction in your daily life."
-        },
-        "paypal_button_id": "ECYRC8H686DWY"
+        "paypal_button_id": "T9JKCB3XLZ28U"
       }
     ]
 }

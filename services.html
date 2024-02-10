@@ -227,11 +227,12 @@
         <br /><br />
         <!--ACT packages-->
         <div class="row" class="act_packages" id="act_packages">
+          <!-- let javascript fill this
           <div class="section-headline text-center">
             <h2 lang="nl">ACT pakketten</h2>
-            <h5 lang="nl">Sessies duren 60min</h4>
+            <h5 lang="nl">Sessies duren 60min</h5>
             <h2 lang="en">ACT packages</h2>
-            <h5 lang="en">Sessions take 60min</h4>
+            <h5 lang="en">Sessions take 60min</h5>
           </div>
           <div class="col-md-3 col-sm-12 order-md-4" style="margin:20px 0 0 0;">
             <zero-md src="content/pricesandpackages/act/nl.md" lang="nl">
@@ -272,7 +273,7 @@
               </div>
           </div>
             <div class="col-md-3 col-sm-12">
-                <div class="pricing-table-3 pricing-table-3 mountainlake">
+                <div class="pricing-table-3 mountainlake">
                     <div class="pricing-table-header">
                         <h4><strong>MOUNTAIN LAKE</strong></h4>
                         <p><span class="strikethrough-price">€1150,-</span><strong>€910,-</strong></p>
@@ -303,7 +304,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-12">
-                <div class="pricing-table-3 pricing-table-3 clearsky">
+                <div class="pricing-table-3 clearsky">
                     <div class="pricing-table-header">
                         <h4><strong>CLEAR SKY</strong></h4>
                         <p><span class="strikethrough-price">€1600,-</span><strong>€1110,-</strong></p>
@@ -333,15 +334,17 @@
                       </div>
                 </div>
             </div>
+          -->
         </div>
         <br /><br />
         <!--Mindfulness packages-->
         <div class="row" class="mindfulness_packages" id="mindfulness_packages">
+          <!-- let javascript fill this
           <div class="section-headline text-center">
             <h2 lang="nl">Mindfulness pakketten</h2>
-            <h5 lang="nl">Sessies duren 40min</h4>
+            <h5 lang="nl">Sessies duren 40min</h5>
             <h2 lang="en">Mindfulness packages</h2>
-            <h5 lang="en">Sessions take 40min</h4>
+            <h5 lang="en">Sessions take 40min</h5>
           </div>
           <div class="col-md-3 col-sm-12 order-md-4" style="margin:20px 0 0 0;">
             <zero-md src="content/pricesandpackages/mindfulness/nl.md" lang="nl">
@@ -358,7 +361,7 @@
             <a lang="en" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Terms and Conditions</a>
           </div>
             <div class="col-md-3 col-sm-12">
-                <div class="pricing-table-3 pricing-table-3 seed">
+                <div class="pricing-table-3 seed">
                     <div class="pricing-table-header">
                         <h4><strong>SEED</strong></h4>
                         <p><span class="strikethrough-price">€250,-</span><strong>€160,-</strong></p>
@@ -386,7 +389,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-12">
-                <div class="pricing-table-3 pricing-table-3 leaf">
+                <div class="pricing-table-3 leaf">
                     <div class="pricing-table-header">
                         <h4><strong>LEAF</strong></h4>
                         <p><span class="strikethrough-price">€450,-</span><strong>€260,-</strong></p>
@@ -414,7 +417,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-12">
-                <div class="pricing-table-3 pricing-table-3 flower">
+                <div class="pricing-table-3 flower">
                     <div class="pricing-table-header">
                         <h4><strong>FLOWER</strong></h4>
                         <p><span class="strikethrough-price">€600,-</span><strong>€260,-</strong></p>
@@ -441,6 +444,7 @@
                       </div>
                 </div>
             </div>
+          -->
         </div>
         <br /><br />
         <!--Other packages-->
@@ -569,8 +573,8 @@
   <script type="module">
     import { fillSeparateSessions, fillACTPackages, fillMindfulnessPackages, fillOtherPackages } from './assets/js/packages.js';
     fillSeparateSessions();
-    //fillACTPackages();
-    //fillMindfulnessPackages();
+    fillACTPackages();
+    fillMindfulnessPackages();
     fillOtherPackages();
   </script>
 

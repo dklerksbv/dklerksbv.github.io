@@ -9,26 +9,35 @@ const act_packages = act_packages_data.values;
 const mindfulness_packages = mindfulness_packages_data.values;
 const other_packages = other_packages_data.values;
 
+const package_classes = [
+  "mountainlake", "clearsky", "seed", "leaf", "flower"
+];
+const base_package_class = "mindfulness";
+
 export function fillSeparateSessions() {
-  fillPackageHTML(separate_sessions, "Losse sessies", "Separate sessions", "content/pricesandpackages/separatesessions/", "separate_sessions");
+  fillPackageHTML(separate_sessions, "Losse sessies", "Separate sessions", null, null, "content/pricesandpackages/separatesessions/", "separate_sessions");
 }
 
 export function fillACTPackages() {
-  fillPackageHTML(act_packages, "ACT pakketten", "ACT packages", "content/pricesandpackages/act/", "act_packages");
+  fillPackageHTML(
+    act_packages, "ACT pakketten", "ACT packages", "Sessies duren 60min", "Sessions take 60min", "content/pricesandpackages/act/", "act_packages"
+  );
 }
 
 export function fillMindfulnessPackages() {
-  fillPackageHTML(mindfulness_packages, "Mindfulness pakketten", "Mindfulness packages", "content/pricesandpackages/mindfulness/", "mindfulness_packages");
+  fillPackageHTML(
+    mindfulness_packages, "Mindfulness pakketten", "Mindfulness packages", "Sessies duren 40min", "Sessions take 40min", "content/pricesandpackages/mindfulness/", "mindfulness_packages"
+  );
 }
 
 export function fillOtherPackages() {
-  fillPackageHTML(other_packages, "Overige pakketten", "Other packages", "content/pricesandpackages/other/", "other_packages");
+  fillPackageHTML(other_packages, "Overige pakketten", "Other packages", null, null, "content/pricesandpackages/other/", "other_packages");
 }
 
-function fillPackageHTML(packages, dutch_title, english_title, content_folder, element_id) {
+function fillPackageHTML(packages, dutch_title, english_title, dutch_subtitle, english_subtitle, content_folder, element_id) {
   let packagesHTML = "";
   if (packages.length > 0) {
-      packagesHTML += getPackagesTitleHtml(dutch_title, english_title);
+      packagesHTML += getPackagesTitleAndSubtitleHtml(dutch_title, english_title, dutch_subtitle, english_subtitle);
       packagesHTML += getPackagesDescriptionHtml(content_folder);
   }
   var packagesDiv = document.getElementById(element_id);
@@ -37,34 +46,55 @@ function fillPackageHTML(packages, dutch_title, english_title, content_folder, e
 }
 
 function getBasicItemHTML(item) {
+  let package_div_class = getPackageClass(item);
+  let detail_div_class_suffix = package_div_class == base_package_class ? '-simple' : '';
+  console.log(package_div_class);
+  console.log(detail_div_class_suffix);
   let html = "<div class='col-md-3 col-sm-12'>";
-  html += "<div class='pricing-table-3 mindfulness'>";
-  html += "<div class='pricing-table-header-simple'>";
+  html += "<div class='pricing-table-3 " + package_div_class + "'>";
+  html += "<div class='pricing-table-header" + detail_div_class_suffix + "'>";
   html += "<h4><strong>" + item.name[globalLang] + "</strong></h4>";
   html += getPriceHtml(item);
-  html += "</div><div class='pricing-body-simple'><ul class='pricing-table-ul'>";
+  html += "</div>";
+  if (package_div_class !== base_package_class) {
+    html += "<div class='price'>&nbsp;</div>";
+  }
+  html += "<div class='pricing-body" + detail_div_class_suffix + "'><ul class='pricing-table-ul'>";
   html += getSessionInfoHtml(item);
+  html += getIntakeLengthHtml(item);
   html += getFrequencyHtml(item);
+  html += getCommonThreadSessionsHtml(item);
   html += getDigitalMFExcerciseHtml(item);
   html += getUpgradePossibilityHtml(item);
   html += getDownloadDescriptionHtml(item);
+  html += getIntroMoneyBackHtml(item);
+  html += afterCareHtml(item);
   html += "</ul>";
   html += getPaypalButtonHtml(item);
   html += "</div></div></div>";
   return html;
 }
 
-function getPackagesTitleHtml(dutch_title, english_title) {
+function getPackagesTitleAndSubtitleHtml(dutch_title, english_title, dutch_subtitle, english_subtitle) {
   let title = dutch_title; // Default
+  let subtitle = dutch_subtitle;
   switch (globalLang) {
     case 'en':
       title = english_title;
+      subtitle = english_subtitle;
       break;
     case 'nl':
       title = dutch_title;
+      subtitle = dutch_subtitle;
       break;
   }
-  return "<div class='section-headline text-center'><h2>" + title + "</h2></div>";
+  let title_and_subtitle_html = "<div class='section-headline text-center'>";
+  title_and_subtitle_html += "<h2>" + title + "</h2>";
+  if (subtitle) {
+    title_and_subtitle_html += "<h5>" + subtitle + "</h5>";
+  }
+  title_and_subtitle_html += "</div>";
+  return title_and_subtitle_html
 }
 
 function getPackagesDescriptionHtml(folder) {
@@ -83,6 +113,14 @@ function getPackagesDescriptionHtml(folder) {
   description_html += "<a href='#' data-bs-toggle='modal' data-bs-target='#exampleModal'>" + termsAndConditionsTitle + "</a>";
   description_html += "</div>";
   return description_html;
+}
+
+function getPackageClass(item) {
+  let div_class = base_package_class;
+  if (item.hasOwnProperty('package_type') && item.package_type !== null) {
+    div_class = package_classes.includes(item.package_type) ? item.package_type : base_package_class;
+  }
+  return div_class;
 }
 
 function getPriceHtml(item) {
@@ -159,7 +197,7 @@ function getUpgradePossibilityHtml(item) {
   let upgrade_html = "";
   if (item.hasOwnProperty('upgrade_possibility') && item.upgrade_possibility !== null) {
     if (item.upgrade_possibility.hasOwnProperty(globalLang) && item.upgrade_possibility[globalLang] !== null) {
-      upgrade_html += "<li><i class='fa fa-user-plus'></i>" +  item.upgrade_possibility[globalLang] + "</li>";
+      upgrade_html += "<li><i class='fa fa-user-plus'></i> + " +  item.upgrade_possibility[globalLang] + "</li>";
     }
   }
 
@@ -188,6 +226,33 @@ function getFrequencyHtml(item) {
   return frequency_html;
 }
 
+function getIntakeLengthHtml(item) {
+  let intake_length_html = "";
+  if (item.hasOwnProperty('intake_length_in_minutes') && item.intake_length_in_minutes !== null) {
+    intake_length_html += "<li><i class='fa fa-handshake-o'></i> + Intake " + item.intake_length_in_minutes + "min</li>";
+  }
+
+  return intake_length_html;
+}
+
+function getCommonThreadSessionsHtml(item) {
+  let common_thread_sessions_html = "";
+  if (item.hasOwnProperty('common_thread_sessions') && item.common_thread_sessions == true) {
+    let commonThreadSessionText = " + Rode draad sessie(s)";  // Default
+    switch (globalLang) {
+      case 'en':
+        commonThreadSessionText = " + Common thread session(s)";
+        break;
+      case 'nl':
+        commonThreadSessionText = " + Rode draad sessie(s)";
+        break;
+    }
+    common_thread_sessions_html += "<li><i class='fa fa-heartbeat'></i>" + commonThreadSessionText + "</li>";
+  }
+
+  return common_thread_sessions_html;
+}
+
 function getDigitalMFExcerciseHtml(item) {
   let digital_mf_html = "";
   if (item.hasOwnProperty('digital_mf_exercises') && item.digital_mf_exercises == true) {
@@ -204,6 +269,42 @@ function getDigitalMFExcerciseHtml(item) {
   }
 
   return digital_mf_html;
+}
+
+function getIntroMoneyBackHtml(item) {
+  let intro_money_back_html = "";
+  if (item.hasOwnProperty('introduction_money_back') && item.introduction_money_back == true) {
+    let introMoneyBackText = " + Geld terug kennismaking";  // Default
+    switch (globalLang) {
+      case 'en':
+        introMoneyBackText = " + Money back introduction";
+        break;
+      case 'nl':
+        introMoneyBackText = " + Geld terug kennismaking";
+        break;
+    }
+    intro_money_back_html += "<li><i class='fa fa-undo'></i>" + introMoneyBackText + "</li>";
+  }
+
+  return intro_money_back_html;
+}
+
+function afterCareHtml(item) {
+  let aftercare_html = "";
+  if (item.hasOwnProperty('aftercare_per_session') && item.aftercare_per_session !== null) {
+    let afterCareText = "Nazorg";  // Default
+    switch (globalLang) {
+      case 'en':
+        afterCareText = "Aftercare";
+        break;
+      case 'nl':
+        afterCareText = "Nazorg";
+        break;
+    }
+    aftercare_html += "<li><i class='fa fa-medkit'></i>" + afterCareText + ": " + item.aftercare_per_session + "p/s</li>";
+  }
+
+  return aftercare_html;
 }
 
 function getPaypalButtonHtml(item) {
