@@ -283,10 +283,17 @@
 
   <!-- Fill content of blog page -->
   <script type="module">
-    import { fillRecentBlogs, fillBlogsOverview, fillDateFilter } from './assets/js/blogs.js';
-    fillRecentBlogs();
-    fillBlogsOverview();
-    fillDateFilter();
+    import { getBlogs, fillRecentBlogs, fillBlogsOverview, fillDateFilter } from './assets/js/blogs.js';
+    getBlogs()
+      .then(blogs => {
+        fillRecentBlogs(blogs);
+        fillBlogsOverview(blogs);
+        fillDateFilter(blogs);
+      })
+      .catch(error => {
+        console.error('Error fetching data:', error);
+        throw error; // Re-throw the error to be caught by the caller
+      });
   </script>
 
 </body>

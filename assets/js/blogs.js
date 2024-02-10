@@ -1,6 +1,3 @@
-import data from '../../content/blog/blogs.json' assert { type: 'json' };
-
-// Get filters
 const location = new URL(document.location);
 let params = location.searchParams;
 let dateFilter = params.get('date');
@@ -12,19 +9,34 @@ let recentBlogsHTML = "";
 let blogsOverviewHTML = "";
 let dateFilterHTML = "";
 
-// Get blogs
-const blogs = data.values;
+export function getBlogs() {
+  return fetch('../../content/blog/blogs.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      const blogs = data.values;
 
-// Sort blogs on most recent first
-blogs.sort(function(a, b) {
-  // return b.date > a.date;
-  const dateA = Date.parse(a.date);
-  const dateB = Date.parse(b.date);
-  return dateB - dateA;
-});
+      // Sort blogs on most recent first
+      blogs.sort((a, b) => {
+        const dateA = Date.parse(a.date);
+        const dateB = Date.parse(b.date);
+        return dateB - dateA;
+      });
+      return blogs; // Return the sorted blogs array
+    })
+    .catch(error => {
+      console.error('Error fetching data:', error);
+      throw error; // Re-throw the error to be caught by the caller
+    });
+}
 
 
-export function fillRecentBlogs() {
+
+export function fillRecentBlogs(blogs) {
   // Get last 5 blogs
   const recentBlogs = blogs.slice(0, 5);
   var recentBlogsDiv = document.getElementById("recent-post");
@@ -34,23 +46,24 @@ export function fillRecentBlogs() {
 
 function getRecentBlogHTML(item) {
   let itemTitle = item[globalLang].title;
+  const blogDetailsUrl = getBlogDetailsUrl(item.name);
   let html = "<div class='recent-single-post'>";
   html += "<div class='post-img'>";
-  html += "<a href=''#''>";
+  html += "<a href='" + blogDetailsUrl + "'>";
   html += "<img src='./content/blog/" + item.name + "/" + item.image + "' alt=''>";
   html += "</a></div><div class='pst-content'>";
-  html += "<p><a href='#'> " + itemTitle + "</a></p>";
+  html += "<p><a href='" + blogDetailsUrl + "'> " + itemTitle + "</a></p>";
   html += "</div></div>";
   recentBlogsHTML += html;
 }
 
-export function fillBlogsOverview() {
+export function fillBlogsOverview(blogs) {
   var blogsOverviewDiv = document.getElementById("blogs-overview");
   if (blog) {
     const item = blogs.find(item => item.name === blog);
     blogsOverviewDiv.innerHTML = getBlogDetailsHTML(item);
   } else {
-    const filteredBlogs = extraFilters();
+    const filteredBlogs = extraFilters(blogs);
     if (filteredBlogs.length > 0) {
       filteredBlogs.forEach(getBlogsOverviewHTML);
       blogsOverviewDiv.innerHTML = blogsOverviewHTML;
@@ -58,7 +71,7 @@ export function fillBlogsOverview() {
   }
 }
 
-function extraFilters() {
+function extraFilters(blogs) {
   let newBlogs = blogs;
   if (dateFilter) {
     const filterMonth = parseInt(dateFilter.substring(0, 2));
@@ -78,7 +91,7 @@ function getBlogsOverviewHTML(item) {
   let itemIntro = item[globalLang].intro;
   const itemDate = new Date(item.date);
   const localDateFormat = getLocalDateFormat(itemDate);
-  const blogDetailsUrl = "blog.html?lang=" + globalLang + "&blog=" + item.name;
+  const blogDetailsUrl = getBlogDetailsUrl(item.name);
   let buttonText = "Lees meer";  // Default
   switch (globalLang) {
     case 'en':
@@ -102,6 +115,10 @@ function getBlogsOverviewHTML(item) {
   blogsOverviewHTML += html;
 }
 
+function getBlogDetailsUrl(name) {
+  return "blog.html?lang=" + globalLang + "&blog=" + name;
+}
+
 function getBlogDetailsHTML(item) {
   let itemTitle = item[globalLang].title;
   const itemDate = new Date(item.date);
@@ -118,13 +135,13 @@ function getBlogDetailsHTML(item) {
   return html;
 }
 
-export function fillDateFilter() {
+export function fillDateFilter(blogs) {
   var dateFilterDiv = document.getElementById("date-filter");
-  getDatesFilterHTML();
+  getDatesFilterHTML(blogs);
   dateFilterDiv.innerHTML = dateFilterHTML;
 }
 
-function getDatesFilterHTML() {
+function getDatesFilterHTML(blogs) {
   let header = "Datum";  // Default
   let all = "Alle datums";  // Default
   switch (globalLang) {
