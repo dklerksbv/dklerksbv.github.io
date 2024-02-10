@@ -1,55 +1,48 @@
-import separate_sessions_data from '../../content/pricesandpackages/separatesessions/packages.json' assert { type: 'json' };
-import act_packages_data from '../../content/pricesandpackages/act/packages.json' assert { type: 'json' };
-import mindfulness_packages_data from '../../content/pricesandpackages/mindfulness/packages.json' assert { type: 'json' };
-import other_packages_data from '../../content/pricesandpackages/other/packages.json' assert { type: 'json' };
-
-// Get packages
-const separate_sessions = separate_sessions_data.values;
-const act_packages = act_packages_data.values;
-const mindfulness_packages = mindfulness_packages_data.values;
-const other_packages = other_packages_data.values;
-
 const package_classes = [
   "mountainlake", "clearsky", "seed", "leaf", "flower"
 ];
 const base_package_class = "mindfulness";
 
 export function fillSeparateSessions() {
-  fillPackageHTML(separate_sessions, "Losse sessies", "Separate sessions", null, null, "content/pricesandpackages/separatesessions/", "separate_sessions");
+  fillPackageHTML("Losse sessies", "Separate sessions", null, null, "content/pricesandpackages/separatesessions/", "separate_sessions");
 }
 
 export function fillACTPackages() {
   fillPackageHTML(
-    act_packages, "ACT pakketten", "ACT packages", "Sessies duren 60min", "Sessions take 60min", "content/pricesandpackages/act/", "act_packages"
+     "ACT pakketten", "ACT packages", "Sessies duren 60min", "Sessions take 60min", "content/pricesandpackages/act/", "act_packages"
   );
 }
 
 export function fillMindfulnessPackages() {
   fillPackageHTML(
-    mindfulness_packages, "Mindfulness pakketten", "Mindfulness packages", "Sessies duren 40min", "Sessions take 40min", "content/pricesandpackages/mindfulness/", "mindfulness_packages"
+    "Mindfulness pakketten", "Mindfulness packages", "Sessies duren 40min", "Sessions take 40min", "content/pricesandpackages/mindfulness/", "mindfulness_packages"
   );
 }
 
 export function fillOtherPackages() {
-  fillPackageHTML(other_packages, "Overige pakketten", "Other packages", null, null, "content/pricesandpackages/other/", "other_packages");
+  fillPackageHTML("Overige pakketten", "Other packages", null, null, "content/pricesandpackages/other/", "other_packages");
 }
 
-function fillPackageHTML(packages, dutch_title, english_title, dutch_subtitle, english_subtitle, content_folder, element_id) {
-  let packagesHTML = "";
-  if (packages.length > 0) {
-      packagesHTML += getPackagesTitleAndSubtitleHtml(dutch_title, english_title, dutch_subtitle, english_subtitle);
-      packagesHTML += getPackagesDescriptionHtml(content_folder);
-  }
-  var packagesDiv = document.getElementById(element_id);
-  packagesHTML += packages.map(getBasicItemHTML).join('');
-  packagesDiv.innerHTML = packagesHTML;
+function fillPackageHTML(dutch_title, english_title, dutch_subtitle, english_subtitle, content_folder, element_id) {
+  fetch(content_folder + 'packages.json')
+    .then(response => response.json())
+    .then(data => {
+      const packages = data.values;
+      let packagesHTML = "";
+      if (packages.length > 0) {
+          packagesHTML += getPackagesTitleAndSubtitleHtml(dutch_title, english_title, dutch_subtitle, english_subtitle);
+          packagesHTML += getPackagesDescriptionHtml(content_folder);
+      }
+      var packagesDiv = document.getElementById(element_id);
+      packagesHTML += packages.map(getBasicItemHTML).join('');
+      packagesDiv.innerHTML = packagesHTML;
+    })
+    .catch(error => console.error('Error fetching data:', error));
 }
 
 function getBasicItemHTML(item) {
   let package_div_class = getPackageClass(item);
   let detail_div_class_suffix = package_div_class == base_package_class ? '-simple' : '';
-  console.log(package_div_class);
-  console.log(detail_div_class_suffix);
   let html = "<div class='col-md-3 col-sm-12'>";
   html += "<div class='pricing-table-3 " + package_div_class + "'>";
   html += "<div class='pricing-table-header" + detail_div_class_suffix + "'>";
