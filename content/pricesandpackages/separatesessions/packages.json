@@ -15,8 +15,8 @@
         "number_of_sessions": 1,
         "session_length_in_minutes": 60,
         "name": {
-            "nl": "Mindfulness",
-            "en": "Mindfulness"
+            "nl": "ACT",
+            "en": "ACT"
         },
         "paypal_button_id": "6GVUMM4QBFZVQ"
       },
