@@ -4,6 +4,7 @@ Buddha literally means 'the one who has awakened': awakened from the illusion th
 &nbsp;       
 &nbsp;       
 
+
 <section class="footnotes">
   <ol class="footnotes-list">
     <li id="bassie" class="footnote-item">
@@ -68,8 +69,23 @@ Buddha literally means 'the one who has awakened': awakened from the illusion th
     </li>
 <li id="bassie11" class="footnote-item">
       <p class="footnote-item">
-       I explain this using the metaphor of the blue sky. In this metaphor, the blue sky symbolizes our consciousness, and the various weather conditions represent different types of thoughts and emotions that can come and go. Regardless of the weather (sun, clouds, rain, thunder, storm, fog, etc.), the blue sky always has room for it. Have you ever flown up in an aeroplane during bad weather? The blue sky is always accessible. The blue sky remains untouched by the different weather conditions, no matter how intense they may be. Regardless of what you have experienced in your life, you possess a consciousness that works in a similar way to the blue sky. Of course, there are significant differences between individuals in the types of weather that frequently appear. Certainly, genetics and learning experiences greatly influence our internal weather. However, consciousness works the same way for everyone: Out of unconditional love for anything that may come.<a href="#adriaan11" class="footnote-backref">↩</a>
+       I explain this using the metaphor of the blue sky. In this metaphor, the blue sky symbolizes our consciousness, and the various weather conditions represent different types of thoughts and emotions that can come and go. Regardless of the weather (sun, clouds, rain, thunder, storm, fog, etc.), the blue sky always has room for it. Have you ever flown up in an aeroplane during bad weather? The blue sky is always accessible. The blue sky remains untouched by the different weather conditions, no matter how intense they may be. Regardless of what you have experienced in your life, you possess a consciousness that works in a similar way to the blue sky. Of course, there are significant differences between individuals in the types of weather that frequently appear. Certainly, genetics and learning experiences greatly influence our internal weather. However, consciousness works the same way for everyone: Out of unconditional love for anything that may come.
+          <a href="#adriaan11" class="footnote-backref">↩</a>
       </p>
     </li>
+    <li id="passie" class="footnote-item">
+      <p class="footnote-item">
+        Noel & Imel, 2023: https://div12.org/treatment/acceptance-and-commitment-therapy-for-mixed-anxiety-disorders/
+        <a href="#padriaan" class="footnote-backref">↩</a>
+      </p>
+    </li>
+    <li id="passie2" class="footnote-item">
+      <p class="footnote-item">
+        A-tsjak, Morina, Topper & Emmelkamp, 2021: https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-020-03020-1
+        <a href="#padriaan2" class="footnote-backref">↩</a>
+      </p>
+    </li>
+  </ol>
+</section>
   </ol>
 </section>
