@@ -4,7 +4,8 @@ Boeddha betekent letterlijk 'de gene die wakker geworden is': wakker geworden va
 &nbsp;                   
 &nbsp;             
 
-        
+
+
 <section class="footnotes">
   <ol class="footnotes-list">
     <li id="bassie" class="footnote-item">
@@ -69,7 +70,20 @@ Boeddha betekent letterlijk 'de gene die wakker geworden is': wakker geworden va
     </li>
 <li id="bassie11" class="footnote-item">
       <p class="footnote-item">
-        Ik licht dit toe aan de hand van de metafoor van de blauwe hemel. In deze metafoor staat de blauwe hemel symbool voor ons bewustzijn en de weertypes voor de verschillende type gedachten en emoties die langs kunnen komen. Wat voor weer het ook is (zon, wolken, regen, omweer, storm, mist etc.) de blauwe hemel heeft er altijd ruimte voor. Ooit wel eens met een vliegtuig tijdens slecht weer omhoog gevlogen?  De blauwe hemel is altijd bereikbaar. De blauwe hemel wordt niet aangetast door de verschillende weertypes, hoe heftig deze ook kunnen zijn. Ongeacht wat je hebt meegemaakt in je leven bezit je een bewustzijn die op een vergelijkbare manier werkt als de blauwe hemel. Natuurlijk is het zo dat er grote verschillen zijn tussen mensen in wat voor weertypes geregeld langskomen. Natuurlijk hebben erfelijkheid en leerervaringen een grote invloed op ons innerlijk weer. Maar het bewustzijn werkt bij iedereen hetzelfde en die werkt vanuit onvoorwaardelijke liefde voor alles wat langs kan komen. <a href="#adriaan11" class="footnote-backref">↩</a>
+        Ik licht dit toe aan de hand van de metafoor van de blauwe hemel. In deze metafoor staat de blauwe hemel symbool voor ons bewustzijn en de weertypes voor de verschillende type gedachten en emoties die langs kunnen komen. Wat voor weer het ook is (zon, wolken, regen, omweer, storm, mist etc.) de blauwe hemel heeft er altijd ruimte voor. Ooit wel eens met een vliegtuig tijdens slecht weer omhoog gevlogen?  De blauwe hemel is altijd bereikbaar. De blauwe hemel wordt niet aangetast door de verschillende weertypes, hoe heftig deze ook kunnen zijn. Ongeacht wat je hebt meegemaakt in je leven bezit je een bewustzijn die op een vergelijkbare manier werkt als de blauwe hemel. Natuurlijk is het zo dat er grote verschillen zijn tussen mensen in wat voor weertypes geregeld langskomen. Natuurlijk hebben erfelijkheid en leerervaringen een grote invloed op ons innerlijk weer. Maar het bewustzijn werkt bij iedereen hetzelfde en die werkt vanuit onvoorwaardelijke liefde voor alles wat langs kan komen. 
+           <a href="#adriaan11" class="footnote-backref">↩</a>
+      </p>
+    </li>
+    <li id="passie" class="footnote-item">
+      <p class="footnote-item">
+        Noel & Imel, 2023: https://div12.org/treatment/acceptance-and-commitment-therapy-for-mixed-anxiety-disorders/
+        <a href="#padriaan" class="footnote-backref">↩</a>
+      </p>
+    </li>
+    <li id="passie2" class="footnote-item">
+      <p class="footnote-item">
+        A-tsjak, Morina, Topper & Emmelkamp, 2021: https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-020-03020-1
+        <a href="#padriaan2" class="footnote-backref">↩</a>
       </p>
     </li>
   </ol>
