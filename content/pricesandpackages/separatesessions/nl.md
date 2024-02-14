@@ -1,4 +1,7 @@
-##### Hi ik wil je wat zeggen hier over de losse sessies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius turpis non orci tristique ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean volutpat porta urna vel porttitor. Vivamus vel odio consequat, placerat nisi quis, tincidunt leo. Vestibulum id nulla tempor, venenatis dolor eu, tincidunt tortor. In lobortis purus eros, eu vehicula tortor gravida sed. Vivamus mollis risus quam, sed iaculis lorem malesuada vel. Vivamus eu risus ut est tincidunt auctor. Ut arcu mauris, volutpat ut erat at, mollis congue erat. Sed nec magna at mi mattis dictum. Nam cursus lectus eu massa varius, quis convallis metus accumsan.
+##### Huidig aanbod
+bestaat uit ACT coaching (individueel) en mindfulness training (individueel, groepsvorm of digitale audio-opnames). De sessies zijn losstaand te koop of in pakketvorm en zowel via beeldbellen als face to face. Mocht je kiezen voor face to face is het belangrijk om te weten dat ik momenteel nog niet over een praktijkruimte beschik. Dat betekent dat deze gesprekken bij jou thuis of in een publieke ruimte plaats zullen vinden. Eventuele reiskosten stemmen we samen af.
 
-TEKST MAG DUS NIET VEEL LANGER DAN DIT!
+Voorafgaand aan de sessies is een kennismakingsgesprek mogelijk (20 minuten telefonisch/beeldbellen en gratis bij aanschaf van een van de ACT of mindfulness pakketten). Ter ondersteuning aan de ACT en mindfulness pakketten bied ik een downloadpakket van aantal gratis begeleide mindfulness (MF) oefeningen aan. 
+
+##### Belangrijk: 
+Mail, app of bel mij voorafgaand aan je aankoop zodat ik mijn beschikbaarheid kan controleren en garantie kan geven dat ik het traject of product kan leveren. 
