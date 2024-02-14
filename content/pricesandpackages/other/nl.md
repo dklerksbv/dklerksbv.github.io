@@ -1,4 +1,5 @@
-##### Hi ik wil je wat zeggen hier over de andere pakketten
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius turpis non orci tristique ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean volutpat porta urna vel porttitor. Vivamus vel odio consequat, placerat nisi quis, tincidunt leo. Vestibulum id nulla tempor, venenatis dolor eu, tincidunt tortor. In lobortis purus eros, eu vehicula tortor gravida sed. Vivamus mollis risus quam, sed iaculis lorem malesuada vel. Vivamus eu risus ut est tincidunt auctor. Ut arcu mauris, volutpat ut erat at, mollis congue erat. Sed nec magna at mi mattis dictum. Nam cursus lectus eu massa varius, quis convallis metus accumsan.
+###### Mindfulness training in 8 weken 
+wordt in groepsvorm gegeven en vind 1x per week plaats met huiswerkopdrachten tussendoor. Om de training voor iedereen toegankelijk te maken is de prijs op basis van financiele draagkracht: 5, 10 of 15 euro per sessie (40, 80 of 120 euro per training). Stuur mij een bericht als je gratis wilt deelnemen. Deze training wordt eens in de zoveel tijd gegeven. De eerstvolgende begint op ... (wekelijks op ... avond 19:30-21uur van ... t/m ...).
 
-TEKST MAG DUS NIET VEEL LANGER DAN DIT!
+######  Digitale mindfulness trainingen (beiden opties)
+bestaan uit 10 downloadbare audio-instructies (mp3) waarin ik zowel de mindfulness theorie als beoefening begeleid. De digitale mindfulness trainingen zijn momenteel nog niet beschikbaar. 
