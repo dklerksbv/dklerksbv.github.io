@@ -5,3 +5,4 @@ Voorafgaand aan de sessies is een kennismakingsgesprek mogelijk (20 minuten tele
 
 ##### Belangrijk: 
 Mail, app of bel mij voorafgaand aan je aankoop zodat ik mijn beschikbaarheid kan controleren en garantie kan geven dat ik het traject of product kan leveren. 
+Lees ook de algemene voorwaarden even goed door (m.n. rondom afspraken annuleren en wijzigen).
