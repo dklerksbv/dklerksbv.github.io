@@ -9,7 +9,7 @@ Hoe lees je dit document?
 
 Ik hanteer de woorden 'ik/mij/mijn', 'jij/jou/jouw' en 'we/wij/ons/onze' voor respectievelijk mijzelf, 'Daniël Klerks', voor jou 'de gebruiker van het product/traject' en voor ons samen. 
  	Gebruik ik het woord product, dan bedoel ik daarmee de combinatie van (digitale of analoge) bestanden die ik aanbied via zittenmetjezelf.nl, via eigen sociale media (Google, Youtube, Instagram, LinkedIn, Whatsapp en Email) en via de sessies, trainingen of cursussen die ik geef. Hieronder vallen alle door mij gecreëerde teksten, theorieën, modellen, afbeeldingen, video's en geluidsfragmenten, die op bovengenoemde kanalen te zien zijn of middels papieren versie uitgegeven worden. 
- 	Gebruik ik het woord traject, dan bedoel ik daarmee het gesprek (de sessie), de combinatie van gesprekken (sessies), de trainingen of de cursussen die ik aanbied via zittenmetjezelf.nl. Als je een product wilt kopen of gekocht hebt, is de informatie in deel 1 en 3 van dit document voor jou belangrijk (1 t/m 1.2 en 3 t/m 3.5 etc). Als je een traject wilt kopen of gekocht hebt, is de informatie in deel 2 en deel 3 van dit document voor jou belangrijk (2 t/m 3.5).
+ 	Gebruik ik het woord traject, dan bedoel ik daarmee het gesprek (de sessie), de combinatie van gesprekken (sessies), de trainingen of de cursussen die ik aanbied via zittenmetjezelf.nl. Als je een product wilt kopen of gekocht hebt, is de informatie in deel 1 en 3 van dit document voor jou belangrijk (1 t/m 1.2 en 3 t/m 3.5). Als je een traject wilt kopen of gekocht hebt, is de informatie in deel 2 en deel 3 van dit document voor jou belangrijk (2 t/m 3.5).
 
 
 Algemene informatie Zitten met Jezelf
