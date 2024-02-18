@@ -1,4 +1,5 @@
 Algemene voorwaarden
+
 Welkom! Je wilt gaan starten met een traject bij Zitten met Jezelf of je bent van plan om een van de  producten te kopen. Allereerst, dankjewel voor het vertrouwen! Het is fijn om te zien dat je aan jezelf wilt werken en ik ga mijn best doen om van jou een tevreden klant te maken. 
 
 Daarnaast is het belangrijk dat je weet wat de rechten en plichten zijn bij je potentiële aankoop, zodat je goed geïnformeerd van start kan gaan. In dit overzicht lees je alles wat je moet weten. Ik heb geprobeerd dit duidelijk op te schrijven voor je (i.p.v. de gebruikelijke ingewikkelde zinsbouw en vakjargon, zoals regelmatig het geval bij algemene voorwaarden). Mocht je er toch niet helemaal uitkomen met onderstaande tekst, schroom dan niet om even contact met mij op te nemen via info@zittenmetjezelf.nl. Of stel je vraag tijdens een van onze gesprekken.
