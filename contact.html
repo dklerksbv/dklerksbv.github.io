@@ -100,6 +100,66 @@
 
   <main id="main">
 
+    <div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 lang="nl" class="modal-title" id="contactModalLabel">Contact</h5>
+            <h5 lang="en" class="modal-title" id="contactModalLabel">Contact</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <div class="form contact-form">
+              <form action="https://formspree.io/f/mgebbvko" method="POST" role="form" class="php-email-form" lang="nl">
+                <div class="form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Uw Naam" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Uw E-mailadres" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Onderwerp" required>
+                </div>
+                <div class="form-group mt-3">
+                  <textarea class="form-control" name="message" rows="5" placeholder="Bericht" required></textarea>
+                </div>
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Je bericht is verzonden! Dankjewel!</div>
+                </div>
+                <div class="text-center"><button type="submit">Bericht verzenden</button></div>
+              </form>
+              <form action="https://formspree.io/f/mgebbvko" method="POST" role="form" class="php-email-form" lang="en">
+                <div class="form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                </div>
+                <div class="form-group mt-3">
+                  <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                </div>
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                </div>
+                <div class="text-center"><button type="submit">Send Message</button></div>
+              </form>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button lang="nl" type="button" class="btn btn-primary" data-bs-dismiss="modal">Sluiten</button>
+            <button lang="en" type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div style="height: 40px;">
       <div class="col-xs-12 col-sm-12"></div>
     </div>
@@ -112,7 +172,7 @@
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="section-headline text-center">
-                <h2>Contact us</h2>
+                <h2>Contact</h2>
               </div>
             </div>
           </div>
@@ -123,32 +183,42 @@
                 <div class="single-icon">
                   <i class="bi bi-phone"></i>
                   <p>
-                    Call: +1 5589 55488 55<br>
-                    <span>Monday-Friday (9am-5pm)</span>
+                    Tel: +31 (0)6 356 241 13<br>
+                    <!-- <span>Monday-Friday (9am-5pm)</span> -->
                   </p>
                 </div>
               </div>
             </div>
             <!-- Start contact icon column -->
+            <!-- <a lang="nl" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"> -->
             <div class="col-md-4">
               <div class="contact-icon text-center">
                 <div class="single-icon">
                   <i class="bi bi-envelope"></i>
-                  <p>
-                    Email: info@example.com<br>
-                    <span>Web: www.example.com</span>
+                  <p lang="nl">
+                    E-mail: <a lang="nl" href="#" data-bs-toggle="modal" data-bs-target="#contactModal">daniel.klerks@zittenmetjezelf.nl</a><br>
+                    <!-- <span>Web: www.example.com</span> -->
+                  </p>
+                  <p lang="en">
+                    Email: <a lang="en" href="#" data-bs-toggle="modal" data-bs-target="#contactModal">daniel.klerks@zittenmetjezelf.nl</a><br>
+                    <!-- <span>Web: www.example.com</span> -->
                   </p>
                 </div>
               </div>
             </div>
+          <!-- </a> -->
             <!-- Start contact icon column -->
             <div class="col-md-4">
               <div class="contact-icon text-center">
                 <div class="single-icon">
                   <i class="bi bi-geo-alt"></i>
-                  <p>
-                    Location: A108 Adam Street<br>
-                    <span>NY 535022, USA</span>
+                  <p lang="nl">
+                    Locatie: Waar ook ter wereld (videobellen)<br/>
+                    <span>Regio Amsterdam (face-to-face)</span>
+                  </p>
+                  <p lang="en">
+                    Location: Wherever in the world (video call)<br>
+                    <span>Region Amsterdam (face-to-face)</span>
                   </p>
                 </div>
               </div>
@@ -158,15 +228,29 @@
 
             <!-- Start Google Map -->
             <div class="col-md-6">
+              <img src="assets/img/contact/location.png"/>
               <!-- Start Map -->
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe> -->
               <!-- End Map -->
             </div>
             <!-- End Google Map -->
 
+            <div class="col-md-6">
+              <zero-md src="content/contact/nl.md" lang="nl">
+                <template>
+                    <link href="assets/css/style.css" rel="stylesheet" />
+                </template>
+              </zero-md>
+              <zero-md src="content/contact/en.md" lang="en">
+                <template>
+                    <link href="assets/css/style.css" rel="stylesheet" />
+                </template>
+              </zero-md>
+            </div>
+
             <!-- Start  contact -->
             <div class="col-md-6">
-              <div class="form contact-form">
+              <!-- <div class="form contact-form">
                 <form action="https://formspree.io/f/mgebbvko" method="POST" role="form" class="php-email-form" lang="nl">
                   <div class="form-group">
                     <input type="text" name="name" class="form-control" id="name" placeholder="Uw Naam" required>
@@ -207,7 +291,7 @@
                   </div>
                   <div class="text-center"><button type="submit">Send Message</button></div>
                 </form>
-              </div>
+              </div> -->
             </div>
             <!-- End Left contact -->
           </div>
