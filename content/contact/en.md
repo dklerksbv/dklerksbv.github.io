@@ -7,5 +7,3 @@ Sessions are available face to face (in the Amsterdam region) or via video call 
 Currently, there are still a few spots available for individual ACT coaching or individual mindfulness training. The mindfulness group training and download packages are not available at the moment, but send me a message so I can add you to the list of interested individuals.
  
 You're just one step away from starting your journey with Sitting with Yourself (Zitten met Jezelf). And that one step could very well be the beginning of a beautiful journey filled with insight and fulfillment. I'm certainly looking forward to getting to know you and working together. Perhaps we'll meet soon!
-
-Daniel
