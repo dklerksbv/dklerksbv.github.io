@@ -1,3 +1,5 @@
+&nbsp;                           
+
 ## Contact & Availability
 
 Great, you made it to the contactpage! You're just one step away from starting your journey with Sitting with Yourself (Zitten met Jezelf). I'm looking forward to working with you! Feel free to get in touch if you have any questions, want to get acquainted, or if you're interested in booking a single session or a package.
