@@ -1,3 +1,5 @@
+&nbsp;                           
+        
 ## Contact & Beschikbaarheid
 
 Wat goed, je bent bij de contactpagina terechtgekomen! Je bent nog één stapje verwijderd van je start bij Zitten met Jezelf. Ik kijk er in elk geval naar uit om met je samen te werken. Voel je vrij om contact op te nemen als je vragen hebt, even wilt kennismaken of als je een losse sessie of pakket wilt aanschaffen. 
