@@ -8,4 +8,4 @@ Currently, there are still a few spots available for individual ACT coaching or 
  
 You're just one step away from starting your journey with Sitting with Yourself (Zitten met Jezelf). And that one step could very well be the beginning of a beautiful journey filled with insight and fulfillment. I'm certainly looking forward to getting to know you and working together. Perhaps we'll meet soon!
 
-Daniel Klerks
+Daniel
