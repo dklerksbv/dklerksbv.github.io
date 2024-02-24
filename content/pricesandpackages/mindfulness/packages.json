@@ -2,11 +2,10 @@
   "values": [
       {
         "package_type": "seed",
-        "price": 250,
-        "discount": 90,
+        "price": 300,
+        "discount": 50,
         "number_of_sessions": 5,
         "digital_mf_exercises": true,
-        "introduction_money_back": true,
         "aftercare_per_session": 50,
         "name": {
             "nl": "SEED",
@@ -16,11 +15,10 @@
       },
       {
         "package_type": "leaf",
-        "price": 450,
-        "discount": 190,
+        "price": 600,
+        "discount": 150,
         "number_of_sessions": 10,
         "digital_mf_exercises": true,
-        "introduction_money_back": true,
         "aftercare_per_session": 45,
         "name": {
             "nl": "LEAF",
@@ -30,12 +28,11 @@
       },
       {
         "package_type": "flower",
-        "price": 600,
-        "discount": 340,
+        "price": 900,
+        "discount": 300,
         "number_of_sessions": 15,
         "digital_mf_exercises": true,
-        "introduction_money_back": true,
-        "aftercare_per_session": 30,
+        "aftercare_per_session": 40,
         "name": {
             "nl": "FLOWER",
             "en": "FLOWER"
