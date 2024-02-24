@@ -5,4 +5,4 @@ De sessies zijn face to face (regio Amsterdam) of via beeldbellen (overal ter we
 
 Er zijn momenteel nog een paar plekken vrij voor individuele ACT coaching of individuele mindfulness training. De mindfulness groepstraining en de downloadpakketten zijn niet beschikbaar, maar stuur me een bericht zodat ik je op de lijst kan zetten van geïntresseerden. 
  
-Je bent nog maar één stapje verwijderd van je start bij Zitten met Jezelf. En die ene stap zou zo maar het begin kunnen zijn van een mooie reis vol inzicht en voldoening. Ik kijk er in elk geval naar uit om je te leren kennen en met je samen te werken. Wie weet tot snel!
+Je bent nog maar één stapje verwijderd van je start bij Zitten met Jezelf. En die ene stap zou zo maar het begin kunnen zijn van een mooie reis vol inzicht en groei. Ik kijk er in elk geval naar uit om je te leren kennen en met je samen te werken. Wie weet tot snel!
