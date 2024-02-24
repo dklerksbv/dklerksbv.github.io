@@ -1,8 +1,8 @@
 {
   "values": [
       {
-        "price": 350,
-        "discount": 50,
+        "price": 400,
+        "discount": 100,
         "number_of_sessions": 4,
         "session_length_in_minutes": 60,
         "name": {
@@ -17,13 +17,12 @@
       },
       {
         "package_type": "mountainlake",
-        "price": 1150.00,
-        "discount": 240,
+        "price": 1350.00,
+        "discount": 350,
         "number_of_sessions": 12,
         "intake_length_in_minutes": 90,
         "common_thread_sessions": true,
         "digital_mf_exercises": true,
-        "introduction_money_back": true,
         "aftercare_per_session": 85,
         "name": {
             "nl": "MOUNTAIN LAKE",
@@ -33,8 +32,8 @@
       },
       {
         "package_type": "clearsky",
-        "price": 1600.00,
-        "discount": 490,
+        "price": 2150.00,
+        "discount": 650,
         "number_of_sessions": 20,
         "intake_length_in_minutes": 90,
         "common_thread_sessions": true,
