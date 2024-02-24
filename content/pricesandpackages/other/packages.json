@@ -5,6 +5,7 @@
           {"option_name": "Optie 1", "price": 400.00},
           {"option_name": "Optie 2", "price": 300.00},
           {"option_name": "Optie 3", "price": 499.99}
+          {"option_name": "Optie 4", "price": 499.99}
         ],
         "number_of_group_sessions": 8,
         "session_length_in_minutes": 90,
@@ -20,7 +21,7 @@
         "paypal_button_id": "J8YF6GSAX3JC6"
       },
       {
-        "price": 50.00,
+        "price": 30.00,
         "name": {
             "nl": "Ontspanning & Rust",
             "en": "Relaxation & Rest"
@@ -32,7 +33,7 @@
         "paypal_button_id": "5X2Q9JTKDRWAE"
       },
       {
-        "price": 50.00,
+        "price": 30.00,
         "name": {
             "nl": "Inzicht & Voldoening",
             "en": "Insight & Satisfaction"
