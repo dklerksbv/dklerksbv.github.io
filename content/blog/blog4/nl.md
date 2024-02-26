@@ -17,7 +17,7 @@ Hoe meer je hiermee oefent, hoe makkelijker deze stappen voor je worden. Op bege
 In de volgende en laatste blog van deze introductie-serie leg ik uit waarom controle loslaten de way to go is wanneer je je binnen de Window of Mindfulness bevind. Ik vertel je hoe je dat precies kan doen en wat voor resultaten je kan verwachten. 
 
 
-## Bijlage: Lijst met bewegingsoefeningen##
+## Bijlage: Lijst met bewegingsoefeningen
 Spiergroepen aanspannen: Tijdens en na afloop voelen wat het effect is van de aanspanning:
 - Schouders omhoog trekken naar nek
 - Vuisten gebald maken
