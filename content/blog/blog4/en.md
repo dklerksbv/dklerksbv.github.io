@@ -15,7 +15,7 @@ The more you practice, the easier these steps will become for you. At some point
 In the next and final blog of this introduction-series, I will explain why letting go of control is the way to go when you are within the Window of Mindfulness. I will tell you exactly how to do that and what results you can expect.
 
 
-## Appendix: List of Movement Exercises ##
+## Appendix: List of Movement Exercises
 Muscle tension. During and after, feel the effect of tension: 
 - Pulling shoulders up to the neck
 - Making fists
