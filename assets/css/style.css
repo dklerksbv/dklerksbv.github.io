@@ -320,6 +320,37 @@ div#preloader {
   }
 }
 
+#header .logo2 h1 {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: bold;
+  text-align: center;
+}
+
+#header .logo2 h1 span {
+  color: #3ec1d5;
+}
+
+#header .logo2 h1 a,
+#header .logo2 h1 a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+#header .logo2 img {
+  padding: 0;
+  margin: 0 10px 0 0;
+  max-height: 60px;
+}
+
+@media (max-width: 768px) {
+  #header .logo2 h1 {
+    font-size: 18px;
+  }
+}
+
 .header-bg {
   background: url(../img/background/page-header.jpg);
   background-repeat: no-repeat;
