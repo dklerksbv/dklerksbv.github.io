@@ -366,6 +366,22 @@ div#preloader {
   padding: 120px 0 60px;
 }
 
+.header-bg-reviews {
+  background: url(../img/background/reviews-header.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  padding: 120px 0 60px;
+}
+
+.header-bg-blog {
+  background: url(../img/background/blog-header.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  padding: 120px 0 60px;
+}
+
 .header-bg::before {
   content: "";
   position: absolute;
@@ -373,7 +389,7 @@ div#preloader {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 @media (min-width: 1025px) {
