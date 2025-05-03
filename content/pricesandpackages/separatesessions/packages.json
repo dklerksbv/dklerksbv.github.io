@@ -15,17 +15,25 @@
         "paypal_button_id": "C6DKHWBA4R5BU"
       },
       {
-        "price": 100.00,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 80.00},
+          {"option_name": "Optie 2", "price": 60.00},
+          {"option_name": "Optie 3", "price": 100.00},
+        ],
         "number_of_sessions": 1,
         "session_length_in_minutes": 60,
         "name": {
             "nl": "ACT",
             "en": "ACT"
         },
-        "paypal_button_id": "6GVUMM4QBFZVQ"
+        "paypal_button_id": "WNFX7CVMZEMBG"
       },
       {
-        "price": 150.00,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 120.00},
+          {"option_name": "Optie 2", "price": 90.00},
+          {"option_name": "Optie 3", "price": 150.00},
+        ],
         "number_of_sessions": 1,
         "session_length_in_minutes": 90,
         "name": {
