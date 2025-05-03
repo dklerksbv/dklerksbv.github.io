@@ -1,7 +1,11 @@
 {
   "values": [
       {
-        "price": 60.00,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 50.00},
+          {"option_name": "Optie 2", "price": 40.00},
+          {"option_name": "Optie 3", "price": 60.00},
+        ],
         "number_of_sessions": 1,
         "session_length_in_minutes": 40,
         "name": {
