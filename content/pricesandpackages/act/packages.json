@@ -21,9 +21,9 @@
       {
         "package_type": "mountainlake",
         "price_range": [
-          {"option_name": "Optie 1", "price": 100.00},
-          {"option_name": "Optie 2", "price": 80.00},
-          {"option_name": "Optie 3", "price": 120.00}
+          {"option_name": "Optie 1", "price": 550.00},
+          {"option_name": "Optie 2", "price": 400.00},
+          {"option_name": "Optie 3", "price": 700.00}
         ],
         "discount": 350,
         "number_of_sessions": 12,
@@ -40,9 +40,9 @@
       {
         "package_type": "clearsky",
         "price_range": [
-          {"option_name": "Optie 1", "price": 100.00},
-          {"option_name": "Optie 2", "price": 80.00},
-          {"option_name": "Optie 3", "price": 120.00}
+          {"option_name": "Optie 1", "price": 900.00},
+          {"option_name": "Optie 2", "price": 600.00},
+          {"option_name": "Optie 3", "price": 1200.00}
         ],
         "discount": 650,
         "number_of_sessions": 20,
