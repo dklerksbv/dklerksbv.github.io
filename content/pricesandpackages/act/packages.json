@@ -39,7 +39,11 @@
       },
       {
         "package_type": "clearsky",
-        "price": 2150.00,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 100.00},
+          {"option_name": "Optie 2", "price": 80.00},
+          {"option_name": "Optie 3", "price": 120.00}
+        ],
         "discount": 650,
         "number_of_sessions": 20,
         "intake_length_in_minutes": 90,
