@@ -2,9 +2,13 @@
   "values": [
       {
         "package_type": "seed",
-        "price": 300,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 90.00},
+          {"option_name": "Optie 2", "price": 70.00},
+          {"option_name": "Optie 3", "price": 110.00}
+        ],
         "discount": 50,
-        "number_of_sessions": 5,
+        "number_of_sessions": 2,
         "digital_mf_exercises": true,
         "aftercare_per_session": 50,
         "name": {
@@ -15,9 +19,12 @@
       },
       {
         "package_type": "leaf",
-        "price": 600,
+          {"option_name": "Optie 1", "price": 150.00},
+          {"option_name": "Optie 2", "price": 70.00},
+          {"option_name": "Optie 3", "price": 200.00}
+        ],
         "discount": 150,
-        "number_of_sessions": 10,
+        "number_of_sessions": 5,
         "digital_mf_exercises": true,
         "aftercare_per_session": 45,
         "name": {
@@ -28,9 +35,12 @@
       },
       {
         "package_type": "flower",
-        "price": 900,
+          {"option_name": "Optie 1", "price": 280.00},
+          {"option_name": "Optie 2", "price": 200.00},
+          {"option_name": "Optie 3", "price": 360.00}
+        ],
         "discount": 300,
-        "number_of_sessions": 15,
+        "number_of_sessions": 8,
         "digital_mf_exercises": true,
         "aftercare_per_session": 40,
         "name": {
