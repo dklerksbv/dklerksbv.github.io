@@ -19,6 +19,7 @@
       },
       {
         "package_type": "leaf",
+        "price_range": [
           {"option_name": "Optie 1", "price": 150.00},
           {"option_name": "Optie 2", "price": 70.00},
           {"option_name": "Optie 3", "price": 200.00}
@@ -35,6 +36,7 @@
       },
       {
         "package_type": "flower",
+        "price_range": [
           {"option_name": "Optie 1", "price": 280.00},
           {"option_name": "Optie 2", "price": 200.00},
           {"option_name": "Optie 3", "price": 360.00}
