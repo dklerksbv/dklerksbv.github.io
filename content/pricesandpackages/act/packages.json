@@ -21,16 +21,16 @@
       {
         "package_type": "mountainlake",
         "price_range": [
-          {"option_name": "Optie 1", "price": 100.00},
-          {"option_name": "Optie 2", "price": 80.00},
-          {"option_name": "Optie 3", "price": 120.00}
+          {"option_name": "Optie 1", "price": 550.00},
+          {"option_name": "Optie 2", "price": 400.00},
+          {"option_name": "Optie 3", "price": 700.00}
         ],
         "discount": 350,
-        "number_of_sessions": 12,
+        "number_of_sessions": 7,
         "intake_length_in_minutes": 90,
         "common_thread_sessions": true,
         "digital_mf_exercises": true,
-        "aftercare_per_session": 85,
+        "aftercare_per_session": 40/50/60,
         "name": {
             "nl": "MOUNTAIN LAKE",
             "en": "MOUNTAIN LAKE"
@@ -39,13 +39,17 @@
       },
       {
         "package_type": "clearsky",
-        "price": 2150.00,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 900.00},
+          {"option_name": "Optie 2", "price": 1200.00},
+          {"option_name": "Optie 3", "price": 600.00}
+        ],
         "discount": 650,
-        "number_of_sessions": 20,
+        "number_of_sessions": 12,
         "intake_length_in_minutes": 90,
         "common_thread_sessions": true,
         "digital_mf_exercises": true,
-        "aftercare_per_session": 75,
+        "aftercare_per_session": 40/50/60,
         "name": {
             "nl": "CLEAR SKY",
             "en": "CLEAR SKY"
