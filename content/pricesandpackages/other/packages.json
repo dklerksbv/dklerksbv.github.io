@@ -2,10 +2,9 @@
   "values": [
       {
         "price_range": [
-          {"option_name": "Optie 1", "price": 100.00},
+          {"option_name": "Optie 1", "price": 90.00},
           {"option_name": "Optie 2", "price": 60.00},
-          {"option_name": "Optie 3", "price": 80.00},
-          {"option_name": "Optie 4", "price": 120.00}
+          {"option_name": "Optie 3", "price": 120.00},
         ],
         "number_of_group_sessions": 8,
         "session_length_in_minutes": 90,
