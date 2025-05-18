@@ -1,8 +1,11 @@
 {
   "values": [
       {
-        "price": 400,
-        "discount": 100,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 100.00},
+          {"option_name": "Optie 2", "price": 80.00},
+          {"option_name": "Optie 3", "price": 120.00}
+        ],
         "number_of_sessions": 4,
         "session_length_in_minutes": 60,
         "name": {
@@ -17,7 +20,11 @@
       },
       {
         "package_type": "mountainlake",
-        "price": 1350.00,
+        "price_range": [
+          {"option_name": "Optie 1", "price": 100.00},
+          {"option_name": "Optie 2", "price": 80.00},
+          {"option_name": "Optie 3", "price": 120.00}
+        ],
         "discount": 350,
         "number_of_sessions": 12,
         "intake_length_in_minutes": 90,
