@@ -20,9 +20,9 @@
       {
         "package_type": "leaf",
         "price_range": [
-          {"option_name": "Optie 1", "price": 150.00},
-          {"option_name": "Optie 2", "price": 70.00},
-          {"option_name": "Optie 3", "price": 200.00}
+          {"option_name": "Optie 1", "price": 200.00},
+          {"option_name": "Optie 2", "price": 150.00},
+          {"option_name": "Optie 3", "price": 250.00}
         ],
         "discount": 150,
         "number_of_sessions": 5,
