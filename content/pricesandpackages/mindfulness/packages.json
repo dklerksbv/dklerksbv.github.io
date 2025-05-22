@@ -7,10 +7,10 @@
           {"option_name": "Optie 2", "price": 70.00},
           {"option_name": "Optie 3", "price": 110.00}
         ],
-        "discount": 50,
+        "discount": 30,
         "number_of_sessions": 2,
         "digital_mf_exercises": true,
-        "aftercare_per_session": 50,
+        "aftercare_per_session": 30,
         "name": {
             "nl": "SEED",
             "en": "SEED"
@@ -27,7 +27,7 @@
         "discount": 150,
         "number_of_sessions": 5,
         "digital_mf_exercises": true,
-        "aftercare_per_session": 45,
+        "aftercare_per_session": 30,
         "name": {
             "nl": "LEAF",
             "en": "LEAF"
@@ -44,7 +44,7 @@
         "discount": 300,
         "number_of_sessions": 8,
         "digital_mf_exercises": true,
-        "aftercare_per_session": 40,
+        "aftercare_per_session": 30,
         "name": {
             "nl": "FLOWER",
             "en": "FLOWER"
