@@ -6,15 +6,15 @@
           {"option_name": "Optie 2", "price": 80.00},
           {"option_name": "Optie 3", "price": 120.00}
         ],
-        "number_of_sessions": 4,
+        "number_of_sessions": 2,
         "session_length_in_minutes": 60,
         "name": {
             "nl": "Introductie ACT",
             "en": "Introduction ACT"
         },
         "upgrade_possibility": {
-          "nl": "Mogelijkheid om na de 4 sessies over te gaan op één van de ACT vervolgpakketten inclusief alle desbetreffende (prijs)voordelen.",
-          "en": "Possibility to continue with one of the ACT follow-up packages after the 4 sessions including all (price)benefits."
+          "nl": "Mogelijkheid om na de 2 sessies over te gaan op één van de ACT vervolgpakketten inclusief alle desbetreffende (prijs)voordelen.",
+          "en": "Possibility to continue with one of the ACT follow-up packages after the 2 sessions including all (price)benefits."
         },
         "paypal_button_id": "CDAED7PKFD4FY"
       },
