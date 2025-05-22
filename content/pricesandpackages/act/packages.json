@@ -16,7 +16,7 @@
           "nl": "Mogelijkheid om na de 4 sessies over te gaan op één van de ACT vervolgpakketten inclusief alle desbetreffende (prijs)voordelen.",
           "en": "Possibility to continue with one of the ACT follow-up packages after the 4 sessions including all (price)benefits."
         },
-        "paypal_button_id": "B3U4HAB3NS8WJ"
+        "paypal_button_id": "CDAED7PKFD4FY"
       },
       {
         "package_type": "mountainlake",
@@ -35,14 +35,14 @@
             "nl": "MOUNTAIN LAKE",
             "en": "MOUNTAIN LAKE"
         },
-        "paypal_button_id": "WNZHG82YYRPKN"
+        "paypal_button_id": "H46JMLHHN46QS"
       },
       {
         "package_type": "clearsky",
         "price_range": [
           {"option_name": "Optie 1", "price": 900.00},
-          {"option_name": "Optie 2", "price": 600.00},
-          {"option_name": "Optie 3", "price": 1200.00}
+          {"option_name": "Optie 2", "price": 700.00},
+          {"option_name": "Optie 3", "price": 1100.00}
         ],
         "discount": 650,
         "number_of_sessions": 12,
@@ -54,7 +54,7 @@
             "nl": "CLEAR SKY",
             "en": "CLEAR SKY"
         },
-        "paypal_button_id": "T9JKCB3XLZ28U"
+        "paypal_button_id": "NWQK2MV5MK86S"
       }
     ]
 }
