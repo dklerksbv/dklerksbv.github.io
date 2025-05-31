@@ -13,7 +13,7 @@ The same approach can be applied in activities like a body scan, where the focal
 If you're just starting with meditation, you may notice that you can only maintain mindfulness of the focal point for a few seconds before the autopilot takes over again. If your brain works like mine, you might eventually feel quite frustrated, bored, or desperate. This is quite a normal reaction of the brain and happens to everyone. The downside is that many people give up: 'Mindfulness isn't for me', 'This is too airy-fairy', 'What am I doing?', 'Forget it!'. Fortunately, I have a simple step-by-step plan for you that will help you create a situation more akin to model B of the image.
 In the upcoming blogs, I will tell you more about this and I will introduce 3 things you need to know before you start meditating. If I had known all of this at the beginning of my exploration, it would have saved me a lot of unnecessary frustration, and I hope it will make your life just a bit easier too.
 
-Here are the 3 things summerized:
+Here are the 3 things summarized:
 1. Basic Knowledge: Mindfulness and meditation explained through the lens of a psychologist (explained mainly in blogs 1 and 2).
 2. Grounding: The Window of Mindfulness and the Mindfulness Cheatsheet (explained in blogs 3 and 4).
 3. Direct Approach: Letting go of control and non-doing (explained in blog 5).
